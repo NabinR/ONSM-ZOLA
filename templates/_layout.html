@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="ONSM, Oceania Nepali Sports Meet" />
+    <metaname="author"content="Aakash Rayamajhi, Nabin Rayamajhi, Jabin Shrestha" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="onsm.org.au" />
+
+    {%if section.title%}
+    <title>{{ section.title }} - ONSM</title>
+    <meta name="og:title" content="{{ section.title }} - ONSM" />
+    {%endif%}
+
+    {%if page.title%}
+    <title>{{ page.title }} - ONSM</title>
+    <meta name="og:title" content="{{ page.title }} - ONSM" />
+    {%endif%}
+
+    {%if section.description%}
+    <meta name="description" content="{{ section.description }}" />
+    <meta name="og:description" content="{{ section.description }}" />
+    {%endif%}
+
+    {%if page.description%}
+    <meta name="description" content="{{ page.description }}" />
+    <meta name="og:description" content="{{ page.description }}" />
+    {%endif%}
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css"
+        integrity="sha256-aAr2Zpq8MZ+YA/D6JtRD3xtrwpEz2IqOS+pWD/7XKIw=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-2/css/all.min.css"
+        integrity="sha256-46r060N2LrChLLb5zowXQ72/iKKNiw/lAmygmHExk/o=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="/css/site.css" />
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-md navbar-light py-0" style="background-image: url('/img/header-bg.jpg');">
+        <div class="container">
+            <div class="navbar-toggler-right text-nowrap">
+                <a class="navbar-brand" href="/">
+                    <img asp-append-version="true" class="img-fluid" src="/img/onsm-banner.jpg" width="700"
+                        alt="ONSM Banner" />
+                </a>
+                <!-- <span class="text-primary mx-0" style="font-size: 1.1rem; font-weight:500;">
+                    ONSM
+                </span> -->
+            </div>
+
+            <div class="collapse navbar-collapse flex-column" id="navbar">
+                <div class="navbar-nav w-100 justify-content-end mb-4">
+                    <div class="text-nowrap" style="font-weight: 600;">
+                        <a class="mr-4 mt-2"
+                            href="https://www.facebook.com/pg/OceaniaNepaliSportsMeet/photos/?tab=albums&ref=page_internal"
+                            target="_blank">Photos & Videos</a>
+                    </div>
+                    <div style="font-size: 0.6rem;">
+                        <a class="fab fa-facebook-f fa-2x mt-0 mr-4" target="_blank"
+                            href="https://facebook.com/OceaniaNepaliSportsMeet"></a>
+                        <a class="fab fa-twitter fa-2x mt-0 mr-4" target="_blank" href="https://twitter.com/"></a>
+                        <a class="fab fa-linkedin-in fa-2x mt-0 mr-4" target="_blank"
+                            href="https://www.linkedin.com/"></a>
+                        <!-- <a class="fab fa-instagram fa-2x mt-0 mr-4" target="_blank"
+                            href="https://facebook.com/OceaniaNepaliSportsMeet/"></a> -->
+                    </div>
+                </div>
+
+                <div class="navbar-nav w-100 justify-content-end ml-3">
+                    <div class="nav">
+                        <form class="mr-4 mb-2" role="search" asp-page="Search" method="get">
+                            <div class="has-search mt-2">
+                                <span class="fas fa-search form-control-feedback"></span>
+                                <input type="text" class="form-control" placeholder="Search website..." name="q"
+                                    id="q" />
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <nav class="navbar navbar-expand-lg navbar-toggleable-lg navbar-light bg-info sticky-top">
+        <div class="container">
+            <button class="navbar-toggler bg-white" type="button" data-toggle="collapse" data-target=".navbar-collapse"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="">
+                    <i class="fas fa-bars"></i>
+                </span>
+            </button>
+
+            <a class="fas fa-home fa-2x navbar-toggler text-primary" href="/"></a>
+
+            <div class="navbar-collapse collapse d-lg-inline-flex">
+                <div class="navbar-nav flex-grow-0">
+                    <!-- <div class="nav-item mr-4">
+              <a class="nav-link text-white" href="/">
+                Home
+              </a>
+            </div> -->
+                    <div class="nav-item dropdown">
+                        <a class="nav-link text-white dropdown-toggle mr-4" id="navbarDropdownMenuLink"
+                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="">
+                            About Us
+                        </a>
+                        <div class="dropdown-menu text-primary" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="/about-us#welcome">Welcome</a>
+                            <a class="dropdown-item" href="/about-us#our-story">Our Story</a>
+                            <a class="dropdown-item" href="/about-us#goals-objectives">Goals & Objectives</a>
+                            <a class="dropdown-item" href="/about-us#executive-committee">Executive Committee</a>
+                            <a class="dropdown-item" href="/about-us#advisory-board">Advisory Board</a>
+                            <a class="dropdown-item" href="/about-us#constitution">Constitution</a>
+                            <a class="dropdown-item" href="/about-us#code-of-conduct">Code of Conduct</a>
+                            <a class="dropdown-item" href="/about-us#privacy-policy">Privacy Policy</a>
+                        </div>
+                    </div>
+
+                    <div class="nav-item dropdown">
+                        <a class="nav-link text-white dropdown-toggle mr-4" id="navbarDropdownMenuLink"
+                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="">
+                            Achievements
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="/achievements#onsm-2018">ONSM 2018</a>
+                            <a class="dropdown-item" href="/achievements#onsm-2016">ONSM 2016</a>
+                            <a class="dropdown-item" href="/achievements#onsm-2014">ONSM 2014</a>
+                        </div>
+                    </div>
+
+                    <div class="nav-item dropdown">
+                        <a class="nav-link text-white dropdown-toggle mr-4" id="navbarDropdownMenuLink"
+                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="">
+                            Sports
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="/sports#5-km-run">5 KM Run</a>
+                            <a class="dropdown-item" href="/sports#badminton">Badminton</a>
+                            <a class="dropdown-item" href="/sports#basketball">Basketball</a>
+                            <a class="dropdown-item" href="/sports#cricket">Cricket</a>
+                            <a class="dropdown-item" href="/sports#golf">Golf</a>
+                            <a class="dropdown-item" href="/sports#soccer">Soccer</a>
+                            <a class="dropdown-item" href="/sports#table-tennis">Table Tennis</a>
+                            <a class="dropdown-item" href="/sports#tennis">Tennis</a>
+                            <a class="dropdown-item" href="/sports#volleyball">Volleyball</a>
+                        </div>
+                    </div>
+
+                    <div class="nav-item dropdown">
+                        <a class="nav-link text-white dropdown-toggle mr-4" id="navbarDropdownMenuLink"
+                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="">
+                            Get Involved
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="/get-involved#partnership">Partnership</a>
+                            <a class="dropdown-item" href="/get-involved#sponsorship">Sponsorship</a>
+                            <a class="dropdown-item" href="/get-involved#media-coverage">Media Coverage</a>
+                            <a class="dropdown-item" href="/get-involved#volunteering">Volunteering</a>
+                        </div>
+                    </div>
+
+                    <div class="nav-item dropdown">
+                        <a class="nav-link text-white dropdown-toggle mr-4" id="navbarDropdownMenuLink"
+                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="">
+                            News & Events
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="/news-events#news-updates">News Updates</a>
+                            <a class="dropdown-item" href="/news-events#events-programs">Events & Programs</a>
+                            <a class="dropdown-item" href="/news-events#useful-links">Useful Links</a>
+                        </div>
+                    </div>
+
+                    <div class="nav-item">
+                        <a class="nav-link text-white" href="/contact-us">
+                            Contact Us
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    {% block content %} {% endblock %}
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"
+        integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.min.js"
+        integrity="sha256-OFRAJNoaD8L3Br5lglV7VyLRf0itmoBzWUoM+Sji4/8=" crossorigin="anonymous"></script>
+    <script async src="https://cse.google.com/cse.js?cx=014710413280270296793:7hhmertdkbw"></script>
+    <script async src="/js/site.js"></script>
+
+</body>
+
+</html>
