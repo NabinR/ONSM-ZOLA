@@ -5,10 +5,12 @@
 <section class="section bg-light py-4">
   <div class="container">
     <h1 class="title">
-      {{ page.title }}
+      {{ section.title }}
     </h1>
-    <p class="subtitle"><strong>{{ page.date }}</strong></p>
-    <p>{{ page.content | safe }}</p>
+      {% for page in section.pages %}      
+      {{ page.content | safe }}
+      {% endfor %}
+    </ul>
   </div>
 </section>
 

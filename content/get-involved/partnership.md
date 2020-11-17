@@ -1,9 +1,11 @@
 +++
-title = "Get Involved"
-template = "get-involved.html"
+title = "Partnership"
+date = 2016-12-31
+weight = 1
 +++
 
-This is Get Involved page.
+## Partnership
+**This is Partnership page.**
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci. Aenean nec lorem.
 

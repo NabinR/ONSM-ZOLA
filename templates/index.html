@@ -10,17 +10,17 @@
     <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
   </ol>
   <div class="carousel-inner" role="listbox">
-    <div class="carousel-item active" style="background-image: url('img/onsm-banner-1.jpg')">
+    <div class="carousel-item active" style="background-image: url('{{ get_url(path="img/onsm-banner-1.jpg", cachebust=true) }}')">
     </div>
-    <div class="carousel-item" style="background-image: url('img/onsm-banner-2.jpg')">
+    <div class="carousel-item" style="background-image: url('{{ get_url(path="img/onsm-banner-2.jpg", cachebust=true) }}')">
     </div>
-    <div class="carousel-item" style="background-image: url('img/onsm-banner-1.jpg')">
+    <div class="carousel-item" style="background-image: url('{{ get_url(path="img/onsm-banner-1.jpg", cachebust=true) }}')">
       <!-- <div class="carousel-caption d-none d-md-block">
               <h3 class="display-4">Third Slide</h3>
               <p class="lead">This is a description for the third slide.</p>
           </div> -->
     </div>
-    <div class="carousel-item" style="background-image: url('img/onsm-banner-2.jpg')">
+    <div class="carousel-item" style="background-image: url('{{ get_url(path="img/onsm-banner-2.jpg", cachebust=true) }}')">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
