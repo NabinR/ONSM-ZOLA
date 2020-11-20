@@ -1,7 +1,7 @@
 +++
 title = "Partnership"
 date = 2016-12-31
-weight = 1
+weight = 2
 +++
 
 ## Partnership
