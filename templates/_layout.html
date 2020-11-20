@@ -36,11 +36,13 @@
 </head>
 
 <body>
-    <nav class="navbar navbar-expand-md navbar-light py-0" style="background-image: linear-gradient(to bottom left, orange,darkmagenta);">
+    <nav class="navbar navbar-expand-md navbar-light py-0"
+        style="background-image: linear-gradient(to bottom left, orange,darkmagenta);">
         <div class="container">
             <div class="navbar-toggler-right text-nowrap">
                 <a class="navbar-brand" href="{{ get_url(path="") }}">
-                    <img asp-append-version="true" class="img-fluid" src="{{ get_url(path="/img/onsm-banner.jpg", cachebust=true) }}" width="700"
+                    <img asp-append-version="true" class="img-fluid"
+                        src="{{ get_url(path="/img/onsm-banner.jpg", cachebust=true) }}" width="700"
                         alt="ONSM Banner" />
                 </a>
                 <!-- <span class="text-primary mx-0" style="font-size: 1.1rem; font-weight:500;">
@@ -81,7 +83,7 @@
         </div>
     </nav>
 
-    <nav class="navbar navbar-expand-lg navbar-toggleable-lg navbar-light sticky-top" style="background-color:purple";>
+    <nav class="navbar navbar-expand-lg navbar-toggleable-lg navbar-light sticky-top" style="background-color:purple" ;>
         <div class="container">
             <button class="navbar-toggler bg-white" type="button" data-toggle="collapse" data-target=".navbar-collapse"
                 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -101,24 +103,31 @@
             </div> -->
                     <div class="nav-item dropdown">
                         <a class="nav-link text-white dropdown-toggle mr-4" id="navbarDropdownMenuLink"
-                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="{{ get_url(path="about-us") }}">
+                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
+                            href="{{ get_url(path="about-us") }}">
                             About Us
                         </a>
                         <div class="dropdown-menu text-primary" aria-labelledby="navbarDropdownMenuLink">
                             <a class="dropdown-item" href="{{ get_url(path="about-us") }}">Welcome</a>
                             <a class="dropdown-item" href="{{ get_url(path="about-us#our-story") }}">Our Story</a>
-                            <a class="dropdown-item" href="{{ get_url(path="about-us#goals-objectives") }}">Goals & Objectives</a>
-                            <a class="dropdown-item" href="{{ get_url(path="about-us#executive-committee") }}">Executive Committee</a>
-                            <a class="dropdown-item" href="{{ get_url(path="about-us#advisory-board") }}">Advisory Board</a>
+                            <a class="dropdown-item" href="{{ get_url(path="about-us#goals-objectives") }}">Goals &
+                                Objectives</a>
+                            <a class="dropdown-item" href="{{ get_url(path="about-us#executive-committee") }}">Executive
+                                Committee</a>
+                            <a class="dropdown-item" href="{{ get_url(path="about-us#advisory-board") }}">Advisory
+                                Board</a>
                             <a class="dropdown-item" href="{{ get_url(path="about-us#constitution") }}">Constitution</a>
-                            <a class="dropdown-item" href="{{ get_url(path="about-us#code-of-conduct") }}">Code of Conduct</a>
-                            <a class="dropdown-item" href="{{ get_url(path="about-us#privacy-policy") }}">Privacy Policy</a>
+                            <a class="dropdown-item" href="{{ get_url(path="about-us#code-of-conduct") }}">Code of
+                                Conduct</a>
+                            <a class="dropdown-item" href="{{ get_url(path="about-us#privacy-policy") }}">Privacy
+                                Policy</a>
                         </div>
                     </div>
 
                     <div class="nav-item dropdown">
                         <a class="nav-link text-white dropdown-toggle mr-4" id="navbarDropdownMenuLink"
-                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="{{ get_url(path="achievements") }}">
+                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
+                            href="{{ get_url(path="achievements") }}">
                             Achievements
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
@@ -130,7 +139,8 @@
 
                     <div class="nav-item dropdown">
                         <a class="nav-link text-white dropdown-toggle mr-4" id="navbarDropdownMenuLink"
-                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="{{ get_url(path="sports") }}">
+                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
+                            href="{{ get_url(path="sports") }}">
                             Sports
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
@@ -148,27 +158,35 @@
 
                     <div class="nav-item dropdown">
                         <a class="nav-link text-white dropdown-toggle mr-4" id="navbarDropdownMenuLink"
-                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="{{ get_url(path="get-involved") }}">
+                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
+                            href="{{ get_url(path="get-involved") }}">
                             Get Involved
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                             <a class="dropdown-item" href="{{ get_url(path="get-involved#membership") }}">Membership</a>
-                            <a class="dropdown-item" href="{{ get_url(path="get-involved#partnership") }}">Partnership</a>
-                            <a class="dropdown-item" href="{{ get_url(path="get-involved#sponsorship") }}">Sponsorship</a>
-                            <a class="dropdown-item" href="{{ get_url(path="get-involved#media-coverage") }}">Media Coverage</a>
-                            <a class="dropdown-item" href="{{ get_url(path="get-involved#volunteering") }}">Volunteering</a>
+                            <a class="dropdown-item"
+                                href="{{ get_url(path="get-involved#partnership") }}">Partnership</a>
+                            <a class="dropdown-item"
+                                href="{{ get_url(path="get-involved#sponsorship") }}">Sponsorship</a>
+                            <a class="dropdown-item" href="{{ get_url(path="get-involved#media-coverage") }}">Media
+                                Coverage</a>
+                            <a class="dropdown-item"
+                                href="{{ get_url(path="get-involved#volunteering") }}">Volunteering</a>
                         </div>
                     </div>
 
                     <div class="nav-item dropdown">
                         <a class="nav-link text-white dropdown-toggle mr-4" id="navbarDropdownMenuLink"
-                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="{{ get_url(path="news-events") }}">
+                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
+                            href="{{ get_url(path="news-events") }}">
                             News & Events
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                             <a class="dropdown-item" href="{{ get_url(path="news-events") }}">News Updates</a>
-                            <a class="dropdown-item" href="{{ get_url(path="news-events#events-programs") }}">Events & Programs</a>
-                            <a class="dropdown-item" href="{{ get_url(path="news-events#useful-links") }}">Useful Links</a>
+                            <a class="dropdown-item" href="{{ get_url(path="news-events#events-programs") }}">Events &
+                                Programs</a>
+                            <a class="dropdown-item" href="{{ get_url(path="news-events#useful-links") }}">Useful
+                                Links</a>
                         </div>
                     </div>
 
