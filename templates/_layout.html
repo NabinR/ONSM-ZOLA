@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="ONSM, Oceania Nepali Sports Meet" />
+    <meta name="description" content="ONSM, Oceania Nepali 5th-onsm Meet" />
     <metaname="author"content="Aakash Rayamajhi, Nabin Rayamajhi, Jabin Shrestha" />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="onsm.org.au" />
@@ -35,14 +35,14 @@
 
 </head>
 
-<body>
+<body class="text-justify">
     <nav class="navbar navbar-expand-md navbar-light py-0"
         style="background-image: linear-gradient(to bottom left, orange,darkmagenta);">
         <div class="container">
             <div class="navbar-toggler-right text-nowrap">
                 <a class="navbar-brand" href="{{ get_url(path="") }}">
                     <img asp-append-version="true" class="img-fluid"
-                        src="{{ get_url(path="/img/onsm-banner.jpg", cachebust=true) }}" width="700"
+                        src="{{ get_url(path="/img/onsm-banner.jpg", cachebust=true) }}" width="600"
                         alt="ONSM Banner" />
                 </a>
                 <!-- <span class="text-primary mx-0" style="font-size: 1.1rem; font-weight:500;">
@@ -54,17 +54,17 @@
                 <div class="navbar-nav w-100 justify-content-end mb-4">
                     <div class="text-nowrap" style="font-weight: 600; font-size:1.1rem">
                         <a class="mr-4 mt-2"
-                            href="https://www.facebook.com/pg/OceaniaNepaliSportsMeet/photos/?tab=albums&ref=page_internal"
+                            href="https://www.facebook.com/pg/OceaniaNepali5th-onsmMeet/photos/?tab=albums&ref=page_internal"
                             target="_blank">Photos & Videos</a>
                     </div>
                     <div style="font-size: 0.6rem;">
                         <a class="fab fa-facebook-f fa-2x mt-0 mr-4" target="_blank"
-                            href="https://facebook.com/OceaniaNepaliSportsMeet"></a>
+                            href="https://facebook.com/OceaniaNepali5th-onsmMeet"></a>
                         <a class="fab fa-twitter fa-2x mt-0 mr-4" target="_blank" href="https://twitter.com/"></a>
-                        <a class="fab fa-linkedin-in fa-2x mt-0 mr-4" target="_blank"
+                        <a class="fab fa-linkedin-in fa-2x mt-0 mr-2" target="_blank"
                             href="https://www.linkedin.com/"></a>
                         <!-- <a class="fab fa-instagram fa-2x mt-0 mr-4" target="_blank"
-                            href="https://facebook.com/OceaniaNepaliSportsMeet/"></a> -->
+                            href="https://facebook.com/OceaniaNepali5th-onsmMeet/"></a> -->
                     </div>
                 </div>
 
@@ -132,31 +132,36 @@
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                             <a class="dropdown-item" href="{{ get_url(path="achievements") }}">4th ONSM 2018</a>
-                            <a class="dropdown-item" href="{{ get_url(path="achievements#3rd-nism-2016") }}">3rd NISM 2016</a>
-                            <a class="dropdown-item" href="{{ get_url(path="achievements#2nd-nism-2014") }}">2nd NISM 2014</a>
-                            <a class="dropdown-item" href="{{ get_url(path="achievements#1st-nism-2013") }}">1st NISM 2013</a>
+                            <a class="dropdown-item" href="{{ get_url(path="achievements#3rd-nism-2016") }}">3rd NISM
+                                2016</a>
+                            <a class="dropdown-item" href="{{ get_url(path="achievements#2nd-nism-2014") }}">2nd NISM
+                                2014</a>
+                            <a class="dropdown-item" href="{{ get_url(path="achievements#1st-nism-2013") }}">1st NISM
+                                2013</a>
                         </div>
                     </div>
 
                     <div class="nav-item dropdown">
                         <a class="nav-link text-white dropdown-toggle mr-4" id="navbarDropdownMenuLink"
                             data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
-                            href="{{ get_url(path="sports") }}">
+                            href="{{ get_url(path="5th-onsm") }}">
                             5th ONSM 202X
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <a class="dropdown-item" href="{{ get_url(path="sports") }}">Event Details</a>
-                            <a class="dropdown-item" href="{{ get_url(path="sports#opening-ceremony") }}">Opening Ceremony</a>
-                            <a class="dropdown-item" href="{{ get_url(path="sports#5km-run") }}">5 KM Run</a>
-                            <a class="dropdown-item" href="{{ get_url(path="sports#badminton") }}">Badminton</a>
-                            <a class="dropdown-item" href="{{ get_url(path="sports#basketball") }}">Basketball</a>
-                            <a class="dropdown-item" href="{{ get_url(path="sports#cricket") }}">Cricket</a>
-                            <a class="dropdown-item" href="{{ get_url(path="sports#golf") }}">Golf</a>
-                            <a class="dropdown-item" href="{{ get_url(path="sports#soccer") }}">Soccer</a>
-                            <a class="dropdown-item" href="{{ get_url(path="sports#table-tennis") }}">Table Tennis</a>
-                            <a class="dropdown-item" href="{{ get_url(path="sports#tennis") }}">Tennis</a>
-                            <a class="dropdown-item" href="{{ get_url(path="sports#volleyball") }}">Volleyball</a>
-                            <a class="dropdown-item" href="{{ get_url(path="sports#closing-ceremony") }}">Closing Ceremony</a>
+                            <a class="dropdown-item" href="{{ get_url(path="5th-onsm") }}">Event Details</a>
+                            <a class="dropdown-item" href="{{ get_url(path="5th-onsm#opening-ceremony") }}">Opening
+                                Ceremony</a>
+                            <a class="dropdown-item" href="{{ get_url(path="5th-onsm#5km-run") }}">5 KM Run</a>
+                            <a class="dropdown-item" href="{{ get_url(path="5th-onsm#badminton") }}">Badminton</a>
+                            <a class="dropdown-item" href="{{ get_url(path="5th-onsm#basketball") }}">Basketball</a>
+                            <a class="dropdown-item" href="{{ get_url(path="5th-onsm#cricket") }}">Cricket</a>
+                            <a class="dropdown-item" href="{{ get_url(path="5th-onsm#golf") }}">Golf</a>
+                            <a class="dropdown-item" href="{{ get_url(path="5th-onsm#soccer") }}">Soccer</a>
+                            <a class="dropdown-item" href="{{ get_url(path="5th-onsm#table-tennis") }}">Table Tennis</a>
+                            <a class="dropdown-item" href="{{ get_url(path="5th-onsm#tennis") }}">Tennis</a>
+                            <a class="dropdown-item" href="{{ get_url(path="5th-onsm#volleyball") }}">Volleyball</a>
+                            <a class="dropdown-item" href="{{ get_url(path="5th-onsm#closing-ceremony") }}">Closing
+                                Ceremony</a>
                         </div>
                     </div>
 
@@ -179,7 +184,7 @@
                         </div>
                     </div>
 
-                    <div class="nav-item dropdown">
+                    <!-- <div class="nav-item dropdown">
                         <a class="nav-link text-white dropdown-toggle mr-4" id="navbarDropdownMenuLink"
                             data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
                             href="{{ get_url(path="news-events") }}">
@@ -192,7 +197,7 @@
                             <a class="dropdown-item" href="{{ get_url(path="news-events#useful-links") }}">Useful
                                 Links</a>
                         </div>
-                    </div>
+                    </div> -->
 
                     <div class="nav-item">
                         <a class="nav-link text-white" href="{{ get_url(path="contact-us") }}">
@@ -205,6 +210,19 @@
     </nav>
 
     {% block content %} {% endblock %}
+
+    <footer class="footer text-white-50 text-center bg-dark" style="font-size:medium">
+        <div class="container">
+            <a href="https://nubik.com.au" target="_blank">
+                <span class="text-white-50">Site by:</span>
+                <span style="color:coral;">Nü</span><span style="color:dodgerblue">Bik</span>
+            </a>
+            | <a class="text-white-50" asp-page="/Copyright">&copy; 2020 - <span class="text-light">ONSM</span>
+            </a>
+            | <a class="text-white-50" asp-page="/Privacy">Privacy</a>
+            | <a class="text-white-50" asp-page="/Disclaimer">Disclaimer</a>
+        </div>
+    </footer>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"
         integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=" crossorigin="anonymous"></script>

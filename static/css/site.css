@@ -88,7 +88,7 @@ body {
 /***** CSS CUSTOMISATION *****/
 
 .carousel-item {
-    height: 50vh;
+    height: 70vh;
     min-height: 350px;
     background: no-repeat center center scroll;
     -webkit-background-size: cover;
@@ -188,8 +188,19 @@ a {
     background-color: rgb(235, 235, 235);
 }
 
+.bg-dark {
+    background: #1a252f;
+    color: #fff;
+}
+
 /*tr {
     line-height:5px;
     min-height: 5px;
     height: 5px;
 }*/
+
+:target {
+    padding-top: 80px;
+    margin-top: -80px;
+    display: inline-block;
+}
