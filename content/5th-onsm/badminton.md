@@ -1,7 +1,7 @@
 +++
 title = "Badminton"
 date = 2016-12-31
-weight = 2
+weight = 4
 +++
 
 ## Badminton

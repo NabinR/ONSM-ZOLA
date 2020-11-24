@@ -1,7 +1,7 @@
 +++
 title = "5 KM Run"
 date = 2018-12-31
-weight = 1
+weight = 3
 +++
 
 ## 5 KM Run

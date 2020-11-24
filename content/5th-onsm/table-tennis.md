@@ -1,7 +1,7 @@
 +++
 title = "Table Tennis"
 date = 2018-12-31
-weight = 7
+weight = 9
 +++
 
 ## Table Tennis

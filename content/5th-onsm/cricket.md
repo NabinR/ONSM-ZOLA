@@ -1,7 +1,7 @@
 +++
 title = "Cricket"
 date = 2018-12-31
-weight = 4
+weight = 6
 +++
 
 ## Cricket
