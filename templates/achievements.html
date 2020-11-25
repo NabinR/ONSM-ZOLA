@@ -9,8 +9,17 @@
     </h1>
       {% for page in section.pages %}      
       {{ page.content | safe }}
+
+      {% for asset in page.assets %}
+        {% if asset is matching("[.](jpg|png)$") %}
+          <a href="{{ get_url(path=asset) }}" target="_blank">
+            <img class="mx-2 my-2" src="{{ resize_image(path=asset, width=240, height=180, op="fill") }}" />
+          </a>
+          &ensp;
+        {% endif %}
       {% endfor %}
-    </ul>
+
+      {% endfor %}      
   </div>
 </section>
 {% endblock content %}
