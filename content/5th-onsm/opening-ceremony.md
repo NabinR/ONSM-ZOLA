@@ -5,9 +5,11 @@ weight = 2
 +++
 
 ## Opening Ceremony
+<img src="../img/ONSM-2020.jpg" alt="Opening Ceremony" width="600" height="240" style="float:right">
+
 **This is Opening Ceremony page.**
 
-##### **Oceania Nepali Sports Meet - Canberra 202X**
+##### **Oceania Nepali Sports Meet - Canberra 202X** <br><br>
 <div class="row">
 <div class="col-md-6">
 <table class="table table-responsive">
