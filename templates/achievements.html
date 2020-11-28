@@ -1,25 +1,28 @@
-{% extends "_layout.html" %} 
-
-{% block content %}
+{% extends "_layout.html" %} {% block content %}
 
 <section class="section bg-light py-4">
   <div class="container">
     <h1 class="title">
       {{ section.title }}
     </h1>
-      {% for page in section.pages %}      
-      {{ page.content | safe }}
+    {% for page in section.pages %} {{ page.content | safe }}
 
-      {% for asset in page.assets %}
-        {% if asset is matching("[.](jpg|png)$") %}
-          <a href="{{ get_url(path=asset) }}" target="_blank">
-            <img class="mx-2 my-2" src="{{ resize_image(path=asset, width=240, height=180, op="fill") }}" />
-          </a>
-          &ensp;
-        {% endif %}
-      {% endfor %}
-
-      {% endfor %}      
+    <div class="text-left">
+    <h5><b>Photo Gallery</b></h5>
+      {% for asset in page.assets %} {% if asset is matching("[.](jpg|png)$") %}
+      <a
+        href="{{ get_url(path=asset) }}"
+        data-toggle="lightbox"
+        data-gallery="image-gallery"
+      >
+        <img class="img-thumbnail mr-1 mb-2" src="{{ resize_image(path=asset,
+        width=240, height=180, op="fill") }}" />
+      </a>
+      
+      {% endif %} {% endfor %}
+    </div>
+    <br>
+    {% endfor %}
   </div>
 </section>
 {% endblock content %}
