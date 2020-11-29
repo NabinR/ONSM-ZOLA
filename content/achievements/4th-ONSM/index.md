@@ -5,7 +5,7 @@ date = 2018-12-31
 
 ## ONSM 2018
 
-<img class="img-thumbnail float-left mr-3" src="../img/onsm-logo.jpg" width=190>
+<img class="img-thumbnail float-left mr-3" src="../img/onsm-logo-bg-red.jpg" width=190>
 
 <p>
     We are pleased to announce that 4th Oceania Nepali Sports Meet <b>(ONSM)</b> has successfully concluded in Sydney, NSW. A marathon schedule of nine sports with 32 sub-categories were held in nine locations during Easter weekend (Fri 30 March to Mon 02 April 2018). Opening and Closing Ceremonies were held to highlight the importance of Nepali sporting men and women gathering at one place and competing on the sport of their choice, as well as, opportunity to Network. This "Mini Olympic" also provides a pathway for younger generation and aspiring athletes  into mainstream sporting events of the countries, now, we call home.

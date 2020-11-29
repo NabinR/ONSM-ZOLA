@@ -8,7 +8,7 @@
     {% for page in section.pages %} {{ page.content | safe }}
 
     <div class="text-left">
-    <h5><b>Photo Gallery</b></h5>
+      <h5><b>Photo Gallery</b></h5>
       {% for asset in page.assets %} {% if asset is matching("[.](jpg|png)$") %}
       <a
         href="{{ get_url(path=asset) }}"
@@ -18,10 +18,10 @@
         <img class="img-thumbnail mr-1 mb-2" src="{{ resize_image(path=asset,
         width=240, height=180, op="fill") }}" />
       </a>
-      
+
       {% endif %} {% endfor %}
     </div>
-    <br>
+    <br />
     {% endfor %}
   </div>
 </section>

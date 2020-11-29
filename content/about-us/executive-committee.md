@@ -5,7 +5,7 @@ weight = 4
 +++
 
 ## Executive Committee
-**This is Executive Committee page.**
+**Coming soon...**
 
 <div class="row">
 

@@ -1,15 +1,13 @@
-{% extends "_layout.html" %}
-
-{% block content %}
+{% extends "_layout.html" %} {% block content %}
 
 <section class="section bg-light py-4">
   <div class="container">
     <h1 class="title">
       {{ section.title }}
     </h1>
-      {% for page in section.pages %}      
-      {{ page.content | safe }}
-      {% endfor %}
+    {% for page in section.pages %} {{ page.content | safe }}
+    <br />
+    {% endfor %}
   </div>
 </section>
 

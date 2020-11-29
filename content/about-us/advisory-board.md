@@ -5,7 +5,7 @@ weight = 5
 +++
 
 ## Advisory Board
-**This is Advisory Board page.**
+**Coming soon...**
 
 <div class="row">
 

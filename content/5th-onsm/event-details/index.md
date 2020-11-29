@@ -6,8 +6,4 @@ weight = 1
 
 ## Event Details - Stay tuned for more details...
 
-<div>
 <img src="../img/ONSM-2020-Banner.jpg" alt="Event details" width="100%">
-</div>
-
-<br><br>

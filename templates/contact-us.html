@@ -1,13 +1,11 @@
-{% extends "_layout.html" %} 
-
-{% block content %}
+{% extends "_layout.html" %} {% block content %}
 
 <section class="section bg-light py-4">
   <div class="container">
     <h1 class="title">
       {{ page.title }}
     </h1>
-    <p class="subtitle"><strong>{{ page.date }}</strong></p>
+    <!-- <p class="subtitle"><strong>{{ page.date }}</strong></p> -->
     <p>{{ page.content | safe }}</p>
   </div>
 </section>
