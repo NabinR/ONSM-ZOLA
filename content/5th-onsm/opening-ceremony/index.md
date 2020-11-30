@@ -4,8 +4,6 @@ date = 2018-12-31
 weight = 2
 +++
 
-## Opening Ceremony
-
 <div class="row">
 
 <div class="col-md-6">

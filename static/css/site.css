@@ -204,3 +204,20 @@ a {
     margin-top: -80px;
     display: inline-block;
 }
+
+.row {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    padding: 0 4px !important;
+  }
+  
+  /* Create two equal columns that sits next to each other */
+  .column {
+    flex: 50% !important;
+    padding: 0 4px !important;
+  }
+  
+  .column img {
+    margin-top: 8px !important;
+    vertical-align: middle !important;
+  }

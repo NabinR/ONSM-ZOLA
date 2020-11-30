@@ -4,8 +4,6 @@ date = 2016-12-31
 weight = 3
 +++
 
-## Goals & Objectives
-
 The objectives of the ONSM are:
 - improve health and fitness at the community level by organising and promoting sporting events;
 - provide a platform for community organisations and individuals to better interact with fellow community members through social-sporting, volunteering and networking;

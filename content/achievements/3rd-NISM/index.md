@@ -3,11 +3,9 @@ title = "3rd NISM 2016"
 date = 2016-12-31
 +++
 
-## 3rd NISM
-
 The third Nepalese Interstate Sports Meet was recently held in Brisbane from the 25th to the 27th of March 2016. Three hundred and sixty five (365) players of Nepalese origin from New Zealand and all the states and territories in Australia except Tasmania  participated in various sporting competitions including soccer, cricket, tennis, table tennis, badminton, golf and 5 km run. In addition to these sports, a friendly volleyball competition among the three local teams involving the participation of 21 players was also held. A summary of the results of all the games is attached here with.
 
-<img class="img-thumbnail float-left mr-3" src="/achievements/3rd-NISM/nism-2016-closing.jpg" width=570>
+<img class="img-thumbnail float-left mr-3" src="/achievements/3rd-nism/nism-2016-closing.jpg" width=570>
 
 The quality and competitiveness of the majority of players were witnessed by everyone participating/attending the event. Since its inception in 2013, the sports meet has always been, without any doubt, the biggest Nepalese sporting event in Australia, and the event has been quite successful in its objectives of developing a strong bond among the communities through sport, acknowledging the great sporting talents we have got in our communities and promoting various sports for health benefits.
 
@@ -30,5 +28,5 @@ We hope to continue organizing this kind of event in the future. For this, we wo
 Thanks again for making the Nepalese Interstate Sports Meet 2016 a grand success.
 
 ##### **Related Links**
-- <a href="../doc/3rd-NISM-2016-Results.pdf" target="_blank">Medal Tally & Detailed Results</a>
+- <a href="../doc/3rd-nism-2016-Results.pdf" target="_blank">Medal Tally & Detailed Results</a>
 - <a href="https://ekantipur.com/diaspora/2016/03/29/20160329183657.html" target="_blank">Media Coverage - eKantipur</a>

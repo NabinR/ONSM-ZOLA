@@ -1,0 +1,48 @@
+{% extends "_layout.html" %} {% block content %}
+
+<section class="section bg-light py-4">
+  <div class="container">
+    <h1 class="title">
+      {{ page.title }}
+    </h1>
+    <!-- <p class="subtitle"><strong>{{ page.date }}</strong></p> -->
+    <p>{{ page.content | safe }}</p>
+
+    <div class="text-left">
+      <!-- <h5><b>Photo Gallery</b></h5> -->
+      {% for asset in page.assets %} {% if asset is matching("[.](jpg|png)$") %}
+      <a
+        href="{{ get_url(path=asset) }}"
+        data-toggle="lightbox"
+        data-gallery="image-gallery"
+      >
+        <img class="img-thumbnail mr-1 mb-2" src="{{ resize_image(path=asset,
+        width=240, height=180, op="fill") }}" />
+      </a>
+
+      {% endif %} {% endfor %}
+    </div>
+
+    <!-- <div class="header" id="myHeader">
+      <h1>Image Grid</h1>
+      <p>Click on the buttons to change the grid view.</p>
+      <button class="btn" onclick="one()">1</button>
+      <button class="btn active" onclick="two()">2</button>
+      <button class="btn" onclick="four()">4</button>
+    </div>
+
+    <div class="row">
+      <div class="column">
+        <img src="/img/ONSM-2020-Banner.jpg">
+        <img src="/img/5-km-run-banner.jpg">
+      </div>
+      <div class="column">
+        <img src="/img/ONSM-2020-Banner.jpg">
+        <img src="/img/5-km-run-banner.jpg">
+      </div>
+    </div> -->
+
+  </div>
+</section>
+
+{% endblock content %}

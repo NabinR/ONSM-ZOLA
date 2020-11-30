@@ -4,8 +4,6 @@ date = 2018-12-31
 weight = 10
 +++
 
-## Tennis
-
 <div class="row">
 <div class="col-md-6">
 
@@ -31,7 +29,7 @@ TBA
 </div>
 
 <div class="col-md-6">
-<img class="img-fluid" src="/5th-ONSM/tennis/tennis.jpg" alt="Tennis">
+<img class="img-fluid" src="../5th-onsm/tennis/tennis.jpg" alt="Tennis">
 </div>
 
 </div>

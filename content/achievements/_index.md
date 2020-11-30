@@ -1,6 +1,6 @@
 +++
 title = "Achievements"
 sort_by = "date"
-template = "achievements.html"
-#page_template = "achievements.html"
+template = "section.html"
+page_template = "page.html"
 +++

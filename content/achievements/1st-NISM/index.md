@@ -3,8 +3,6 @@ title = "1st NISM 2013"
 date = 2013-12-31
 +++
 
-## 1st NISM
-
 **By Jabin Shrestha - 02 January 2014**
 
 Sydney, NSW – Nepalese Recreational Club **(NRC)** would like to announce that first interstate sports
@@ -20,8 +18,8 @@ Golf Club. A total of 15 players with different levels of Handicap from VIC and 
 tournament was coordinated by Mr Jog Limbu (VIC) and Mr Deepak Khadka (NSW).
 </div>
 <div class="col-md-8">
-<img class="img-thumbnail mb-4 mr-2" src="/achievements/1st-NISM/image003.jpg" width="260">
-<img class="img-thumbnail mb-4" src="/achievements/1st-NISM/image004.jpg" width="260">
+<img class="img-thumbnail mb-4 mr-2" src="/achievements/1st-nism/image003.jpg" width="260">
+<img class="img-thumbnail mb-4" src="/achievements/1st-nism/image004.jpg" width="260">
 </div>
 <div class="col-md-12">
 
@@ -31,10 +29,10 @@ North Ryde RSL Youth Club and Strathfield Sports Club Tennis courts. A total of 
 QLD, VIC and NSW participated. This tournament was coordinated by Mr Bishnu Hamal and Mr Dil
 Kumar Bharti.
 <div class="col-md-12">
-<img class="img-thumbnail mb-4 mr-2" src="/achievements/1st-NISM/image006.jpg" width="260">
-<img class="img-thumbnail mb-4 mr-2" src="/achievements/1st-NISM/image007.jpg" width="235">
-<img class="img-thumbnail mb-4 mr-2" src="/achievements/1st-NISM/image009.jpg" width="235">
-<img class="img-thumbnail mb-4" src="/achievements/1st-NISM/image010.jpg" width="260">
+<img class="img-thumbnail mb-4 mr-2" src="/achievements/1st-nism/image006.jpg" width="260">
+<img class="img-thumbnail mb-4 mr-2" src="/achievements/1st-nism/image007.jpg" width="235">
+<img class="img-thumbnail mb-4 mr-2" src="/achievements/1st-nism/image009.jpg" width="235">
+<img class="img-thumbnail mb-4" src="/achievements/1st-nism/image010.jpg" width="260">
 </div>
 </div>
 <div class="col-md-12">
@@ -46,10 +44,10 @@ Badminton courts and concluded in Sport Centre, Sydney Olympic Park on Sunday 29
 single and Doubles and Mix doubles categories. This Tournament was coordinated by Mr Hemant
 Bhatta, Mr Sanju Roka and Mr Jabin Shrestha.
 <div class="col-md-12">
-<img class="img-thumbnail mb-4 mr-2" src="/achievements/1st-NISM/image012.jpg" width="260">
-<img class="img-thumbnail mb-4 mr-2" src="/achievements/1st-NISM/image023.jpg" width="260">
-<img class="img-thumbnail mb-4 mr-2" src="/achievements/1st-NISM/image014.jpg" width="260">
-<img class="img-thumbnail mb-4" src="/achievements/1st-NISM/image015.jpg" width="260">
+<img class="img-thumbnail mb-4 mr-2" src="/achievements/1st-nism/image012.jpg" width="260">
+<img class="img-thumbnail mb-4 mr-2" src="/achievements/1st-nism/image023.jpg" width="260">
+<img class="img-thumbnail mb-4 mr-2" src="/achievements/1st-nism/image014.jpg" width="260">
+<img class="img-thumbnail mb-4" src="/achievements/1st-nism/image015.jpg" width="260">
 </div>
 </div>
 <div class="col-md-12">
@@ -60,10 +58,10 @@ December 2013. Over 45 players from VIC, ACT, QLD and NSW participated in Men’
 Doubles and Ladies single and Doubles and Mix Doubles. This competition was coordinated by Mr
 Kuldeep Pradhan.
 <div class="col-md-12">
-<img class="img-thumbnail mb-4 mr-2" src="/achievements/1st-NISM/image017.jpg" width="260">
-<img class="img-thumbnail mb-4 mr-2" src="/achievements/1st-NISM/image018.jpg" width="260">
-<img class="img-thumbnail mb-4 mr-2" src="/achievements/1st-NISM/image020.jpg" width="260">
-<img class="img-thumbnail mb-4" src="/achievements/1st-NISM/image021.jpg" width="260">
+<img class="img-thumbnail mb-4 mr-2" src="/achievements/1st-nism/image017.jpg" width="260">
+<img class="img-thumbnail mb-4 mr-2" src="/achievements/1st-nism/image018.jpg" width="260">
+<img class="img-thumbnail mb-4 mr-2" src="/achievements/1st-nism/image020.jpg" width="260">
+<img class="img-thumbnail mb-4" src="/achievements/1st-nism/image021.jpg" width="260">
 </div>
 </div>
 <div class="col-md-12">
@@ -72,10 +70,10 @@ H.E. Rudra Kumar Nepal, Ambassador of Nepal to Australia, Mr Deepak Khadka, Hono
 General of Nepal to NSW, Sponsors of this tournament, Media personnel, Community leaders and
 Nepalese living in Australia came in big number to witness this historic event.
 <div class="col-md-12">
-<img class="img-thumbnail mb-4 mr-2" src="/achievements/1st-NISM/image036.jpg" width="260">
-<img class="img-thumbnail mb-4 mr-2" src="/achievements/1st-NISM/image037.jpg" width="260">
-<img class="img-thumbnail mb-4 mr-2" src="/achievements/1st-NISM/image038.jpg" width="260">
-<img class="img-thumbnail mb-4" src="/achievements/1st-NISM/image041.jpg" width="260">
+<img class="img-thumbnail mb-4 mr-2" src="/achievements/1st-nism/image036.jpg" width="260">
+<img class="img-thumbnail mb-4 mr-2" src="/achievements/1st-nism/image037.jpg" width="260">
+<img class="img-thumbnail mb-4 mr-2" src="/achievements/1st-nism/image038.jpg" width="260">
+<img class="img-thumbnail mb-4" src="/achievements/1st-nism/image041.jpg" width="260">
 </div></div>
 <div class="col-md-6">
 

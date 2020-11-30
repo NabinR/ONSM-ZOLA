@@ -1,9 +1,7 @@
 +++
-title = "ONSM 2018"
+title = "4th ONSM 2018"
 date = 2018-12-31
 +++
-
-## ONSM 2018
 
 <img class="img-thumbnail float-left mr-3" src="../img/onsm-logo-bg-red.jpg" width=190>
 

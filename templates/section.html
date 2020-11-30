@@ -8,8 +8,7 @@
     <ul>
       {% for page in section.pages %}
       <li>
-        <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
-        <p>{{ page.content | safe }}</p>
+        <h5><a href="{{ page.permalink | safe }}">{{ page.title }}</a></h5>
       </li>
       {% endfor %}
     </ul>

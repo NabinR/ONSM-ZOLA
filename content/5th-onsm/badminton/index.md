@@ -4,8 +4,6 @@ date = 2016-12-31
 weight = 4
 +++
 
-## Badminton
-
 <div class="row">
 
 <div class="col-md-6">

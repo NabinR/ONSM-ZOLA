@@ -4,8 +4,6 @@ date = 2018-12-31
 weight = 3
 +++
 
-## 5 KM Run
-
 <div class="row">
 <div class="col-md-6">
 
@@ -31,7 +29,7 @@ TBA
 </div>
 
 <div class="col-md-6 img-fluid">
-<img class="img-fluid" src="/5th-ONSM/5-km-run/5-km-run.jpg" alt="5 KM Run">
+<img class="img-fluid" src="../5th-onsm/5-km-run/5-km-run.jpg" alt="5 KM Run">
 </div>
 
 </div>

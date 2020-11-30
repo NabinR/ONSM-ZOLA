@@ -4,8 +4,6 @@ date = 2018-12-31
 weight = 11
 +++
 
-## Volleyball
-
 <div class="row">
 <div class="col-md-6">
 
@@ -31,7 +29,7 @@ TBA
 </div>
 
 <div class="col-md-6">
-<img class="img-fluid" src="/5th-ONSM/volleyball/volleyball.jpg" alt="Volleyball">
+<img class="img-fluid" src="../5th-onsm/volleyball/volleyball.jpg" alt="Volleyball">
 </div>
 
 </div>
