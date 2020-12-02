@@ -3,7 +3,7 @@ title = "Oceania Nepali Sports Meet (ONSM)"
 sort_by = "date"
 +++
 
-<img class="img-thumbnail float-left mr-3" src="../img/onsm-logo-bg-red.jpg" width=280>
+<img class="img-thumbnail float-left mr-3" src="./img/onsm-logo-bg-red.jpg" width=280>
 
 Oceania Nepali Sports Meet (ONSM) is a not-for-profit organisation registered under the NSW Fair Trading and the
 Australian Securities and Investment Commission (ASIC). The ONSM organises biennial sporting events, called the
@@ -24,4 +24,4 @@ Proponents of the ONSM who have been involved in the last four ONSM events will 
 strategic shaping and mentoring of new leadership for the management of the ONSM moving forward in to the
 future.
 
-<img src="../img/ONSM-2020-Banner.jpg" alt="Event details" width="100%">
+<img src="./img/ONSM-2020-Banner.jpg" alt="Event details" width="100%">
