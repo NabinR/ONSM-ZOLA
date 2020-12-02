@@ -34,7 +34,6 @@ Kumar Bharti.
 <img class="img-thumbnail mb-4 mr-2" src="./image009.jpg" width="235">
 <img class="img-thumbnail mb-4" src="./image010.jpg" width="260">
 </div>
-</div>
 <div class="col-md-12">
 
 ##### Badminton
@@ -43,12 +42,12 @@ Badminton courts and concluded in Sport Centre, Sydney Olympic Park on Sunday 29
 2013. Over 60 players from ACT, NSW, QLD and VIC participated in Men’s single and Doubles, Ladies
 single and Doubles and Mix doubles categories. This Tournament was coordinated by Mr Hemant
 Bhatta, Mr Sanju Roka and Mr Jabin Shrestha.
+</div>
 <div class="col-md-12">
 <img class="img-thumbnail mb-4 mr-2" src="./image012.jpg" width="260">
-<img class="img-thumbnail mb-4 mr-2" src="./image023.jpg" width="260">
+<img class="img-thumbnail mb-4 mr-2" src="./image024.jpg" width="260">
 <img class="img-thumbnail mb-4 mr-2" src="./image014.jpg" width="260">
 <img class="img-thumbnail mb-4" src="./image015.jpg" width="260">
-</div>
 </div>
 <div class="col-md-12">
 
@@ -57,24 +56,25 @@ This tournament was held in Sports Centre, Sydney Olympic Park on Sat 28 and Sun
 December 2013. Over 45 players from VIC, ACT, QLD and NSW participated in Men’s Single and
 Doubles and Ladies single and Doubles and Mix Doubles. This competition was coordinated by Mr
 Kuldeep Pradhan.
+</div>
 <div class="col-md-12">
 <img class="img-thumbnail mb-4 mr-2" src="./image017.jpg" width="260">
 <img class="img-thumbnail mb-4 mr-2" src="./image018.jpg" width="260">
 <img class="img-thumbnail mb-4 mr-2" src="./image020.jpg" width="260">
 <img class="img-thumbnail mb-4" src="./image021.jpg" width="260">
 </div>
-</div>
 <div class="col-md-12">
 
 H.E. Rudra Kumar Nepal, Ambassador of Nepal to Australia, Mr Deepak Khadka, Honorary Council
 General of Nepal to NSW, Sponsors of this tournament, Media personnel, Community leaders and
 Nepalese living in Australia came in big number to witness this historic event.
+</div>
 <div class="col-md-12">
 <img class="img-thumbnail mb-4 mr-2" src="./image036.jpg" width="260">
 <img class="img-thumbnail mb-4 mr-2" src="./image037.jpg" width="260">
 <img class="img-thumbnail mb-4 mr-2" src="./image038.jpg" width="260">
 <img class="img-thumbnail mb-4" src="./image041.jpg" width="260">
-</div></div>
+</div>
 <div class="col-md-6">
 
 ##### Official Desk
