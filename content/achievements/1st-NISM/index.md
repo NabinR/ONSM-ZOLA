@@ -3,13 +3,15 @@ title = "1st NISM 2013"
 date = 2013-12-31
 +++
 
+<div class="row">
+<div class="col-md-12">
+
 **By Jabin Shrestha - 02 January 2014**
 
 Sydney, NSW – Nepalese Recreational Club **(NRC)** would like to announce that first interstate sports
 tournament held in Sydney from 27 – 29 of December 2013 has been completed with great success.
 Competitions were held in Golf, Tennis, Badminton and Table Tennis.
-
-<div class="row">
+</div>
 <div class="col-md-4">
 
 ##### Golf
@@ -28,6 +30,7 @@ The tournament was held across two days Friday 27 and Saturday 28 December 2013 
 North Ryde RSL Youth Club and Strathfield Sports Club Tennis courts. A total of 16 players from NT,
 QLD, VIC and NSW participated. This tournament was coordinated by Mr Bishnu Hamal and Mr Dil
 Kumar Bharti.
+</div>
 <div class="col-md-12">
 <img class="img-thumbnail mb-4 mr-2" src="./image006.jpg" width="260">
 <img class="img-thumbnail mb-4 mr-2" src="./image007.jpg" width="235">
@@ -108,8 +111,8 @@ NRC is in debt to Mr Madhu Sudan Pokhrel and Mr Jog Limbu (VIC), Mr Hari Khadka 
 Abhimanyu KC (QLD), and Mr DD Kandel (ACT) for their valuable contribution in formulation of the
 tournament from its conception in early August 2013.
 </div>
-</div>
 
+<div class="col-md-12">
 NRC would like to gratitude all players, sponsors, supporters, media partners, community leaders
 and family members for their efforts to successfully accomplish this historic event.
 
@@ -118,3 +121,5 @@ and family members for their efforts to successfully accomplish this historic ev
 With the talk held among all State coordinators it was decided to organise the next Interstate
 tournament in around December 2014/January 2015 in Melbourne lead by Nepalese Association of
 Victoria and supported by other state sporting CBO’s.
+</div>
+</div>
