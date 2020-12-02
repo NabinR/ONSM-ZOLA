@@ -1,5 +1,5 @@
 +++
-title = "1st nism 2013"
+title = "1st NISM 2013"
 date = 2013-12-31
 +++
 
