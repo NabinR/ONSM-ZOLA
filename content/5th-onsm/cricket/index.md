@@ -29,7 +29,7 @@ TBA
 </div>
 
 <div class="col-md-6">
-<img class="img-fluid" src="/5th-onsm/cricket/cricket.jpg" alt="Cricket">
+<img class="img-fluid" src="./cricket.jpg" alt="Cricket">
 </div>
 
 </div>
