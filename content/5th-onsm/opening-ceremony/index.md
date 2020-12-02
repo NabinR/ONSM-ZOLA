@@ -30,7 +30,7 @@ TBA
 </div>
 
 <div class="col-md-6">
-<img src="../img/ONSM-2020.jpg" class="img-fluid" alt="Opening Ceremony">
+<img src="/img/ONSM-2020.jpg" class="img-fluid" alt="Opening Ceremony">
 </div>
 
 </div>

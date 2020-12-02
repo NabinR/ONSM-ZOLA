@@ -30,7 +30,7 @@ TBA
 </div>
 
 <div class="col-md-6">
-<img class="img-fluid" src="../img/ONSM-2020.jpg" alt="Basketball">
+<img class="img-fluid" src="/img/ONSM-2020.jpg" alt="Basketball">
 </div>
 
 </div>
