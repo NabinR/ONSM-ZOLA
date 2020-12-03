@@ -4,6 +4,7 @@ date = 2018-12-31
 +++
 
 <img class="img-thumbnail float-left mr-3" src=".././.././img/onsm-logo-bg-red.jpg" width=200>
+
 We are pleased to announce that 4th Oceania Nepali Sports Meet <b>(ONSM)</b> has successfully concluded in Sydney, NSW. A marathon schedule of nine sports with 32 sub-categories were held in nine locations during Easter weekend (Fri 30 March to Mon 02 April 2018). Opening and Closing Ceremonies were held to highlight the importance of Nepali sporting men and women gathering at one place and competing on the sport of their choice, as well as, opportunity to Network. This "Mini Olympic" also provides a pathway for younger generation and aspiring athletes  into mainstream sporting events of the countries, now, we call home.
 
 Over 800 players, from all states & territories of Australia, New Zealand and for the first time Papua New Guinea, of Nepali origin participated in the social yet competitive tournament of <b>5 KM Run, Badminton, Basketball, Cricket, Golf, Lawn Tennis, Soccer, Table Tennis and Volleyball</b>. The smooth running of the events was assisted by hundreds of dedicated volunteers of Nepalese Recreational Club <b>(NRC)</b>, Nepalese Cricket Association, Australia <b>(NCAA)</b>, Machhapuchhre Football Club <b>(MFC)</b>, Buzzer Basketball Club <b>(BBC)</b>, Myagdi Overseas Nepalese Association <b>(MONA)</b>, Bridge The Gap Nepal <b>(BGTN)</b>, Association of Nepalese Medical & Dental Association <b>(ANMDA)</b>, Nepindo Group and members of Nepalese community in Sydney.
