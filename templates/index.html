@@ -2,7 +2,7 @@
 
 {% block content %}
 
-<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+<div id="carouselExampleIndicators" class="container carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -13,26 +13,26 @@
   </ol>
   <div class="carousel-inner" role="listbox">
     <div class="carousel-item active"
-      style="background-image: url('{{ get_url(path="img/ONSM-2020.jpg", cachebust=false) }}')">
+      style="background-image: url('{{ get_url(path="img/ONSM-2020.jpg", cachebust=true) }}'); background-position: left;">
       <!-- <div class="carousel-caption d-none d-md-block">
               <h3 class="display-4">Third Slide</h3>
               <p class="lead">This is a description for the third slide.</p>
           </div> -->
     </div>
     <div class="carousel-item"
-      style="background-image: url('{{ get_url(path="img/5-km-run-banner.jpg", cachebust=true) }}')">
+      style="background-image: url('{{ get_url(path="img/5-km-run-banner.jpg", cachebust=true) }}'); background-position: left;">
     </div>
     <div class="carousel-item"
-      style="background-image: url('{{ get_url(path="img/cricket-banner.jpg", cachebust=true) }}')">
+      style="background-image: url('{{ get_url(path="img/cricket-banner.jpg", cachebust=true) }}'); background-position: left;">
     </div>
     <div class="carousel-item"
-      style="background-image: url('{{ get_url(path="img/table-tennis-banner.jpg", cachebust=true) }}')">
+      style="background-image: url('{{ get_url(path="img/table-tennis-banner.jpg", cachebust=true) }}'); background-position: left;">
     </div>
     <div class="carousel-item"
-      style="background-image: url('{{ get_url(path="img/tennis-banner.jpg", cachebust=true) }}')">
+      style="background-image: url('{{ get_url(path="img/tennis-banner.jpg", cachebust=true) }}'); background-position: left;">
     </div>
     <div class="carousel-item"
-      style="background-image: url('{{ get_url(path="img/volleyball-banner.jpg", cachebust=true) }}')">
+      style="background-image: url('{{ get_url(path="img/volleyball-banner.jpg", cachebust=true) }}'); background-position: left;">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -45,17 +45,131 @@
   </a>
 </div>
 
-<section class="section bg-light py-4">
+
+<section class="section bg-white py-4">
   <div class="container">
-    <h1 class="title">
-      {{ section.title }}
-    </h1>
-    <!-- <ul>
+    <div class="row">
+
+      <div class="col-md-8">
+        <h1 class="title">
+          {{ section.title }}
+        </h1>
+        <img class="img-thumbnail float-left mr-3" src="./img/onsm-logo-bg-red.jpg" width=280>
+        <p>{{ section.content | safe }}</p>
+      </div>
+
+      <div class="col-md-4">
+        <div id="fb-root"></div>
+        <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v9.0"
+          nonce="Mli1jicx">
+          </script>
+
+        <div class="fb-page" data-href="https://www.facebook.com/OceaniaNepaliSportsMeet"
+          data-tabs="timeline, events, messages" data-width="" data-height="650" data-small-header="false"
+          data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+          <blockquote cite="https://www.facebook.com/OceaniaNepaliSportsMeet" class="fb-xfbml-parse-ignore"><a
+              href="https://www.facebook.com/OceaniaNepaliSportsMeet">Oceania Nepali Sports Meet</a></blockquote>
+        </div>
+      </div>
+
+      <!-- <ul>
       {% for page in section.pages %}
       <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
       {% endfor %}
     </ul> -->
-    <p>{{ section.content | safe }}</p>
+
+    </div>
+</section>
+
+<section class="section py-4" style="background-color:purple">
+  <div class="container">
+    <div class="row">
+
+      <div class="col-lg-4 col-md-6 col-sm-8 mb-5">
+        <div class="card h-100 bg-custom">
+          <img class="card-img-top img-fluid" src="./img/cup.webp" alt="Achievements">
+          <!-- <i class="card-img-top fas fa-futbol fa-10x bg-white text-primary text-center py-4"></i> -->
+          <div class="card-body">
+            <h2 class="card-title text-center ">Achievements</h3>
+              <p class="card-text">
+                ONSM has been organising biennial sporting events drawing hundreds of athletes from Australia and New
+                Zealand and the other countries in the Oceania region:
+              </p>
+              <ul>
+                <li><a class="" href="{{ get_url(path="achievements/4th-onsm") }}">4th ONSM 2018</a></li>
+                <li><a class="" href="{{ get_url(path="achievements/3rd-nism") }}">3rd NISM 2016</a></li>
+                <li><a class="" href="{{ get_url(path="achievements/2nd-nism") }}">2nd NISM 2014</a></li>
+                <li><a class="" href="{{ get_url(path="achievements/1st-nism") }}">1st NISM 2013</a></li>
+              </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-4 col-md-6 col-sm-8 mb-5">
+        <div class="card h-100 bg-custom">
+          <img class="card-img-top img-fluid" src="./img/ONSM-202X.jpg" alt="5th ONSM 202X">
+          <!-- <i class="card-img-top fas fa-users fa-10x bg-white text-primary text-center py-4"></i> -->
+          <div class="card-body">
+            <h2 class="card-title text-center ">5th ONSM 202X</h3>
+              <p class="card-text">
+                5th ONSM will be hosted by ACT. Stay tuned for more details...
+              </p>
+              <ul>
+                <li><a class="" href="{{ get_url(path="5th-onsm/event-details") }}">Event Details</a></li>
+                <li><a class="" href="{{ get_url(path="5th-onsm/opening-ceremony") }}">Opening Ceremony</a></li>
+                <li><a class="" href="{{ get_url(path="5th-onsm/5-km-run") }}">5 KM Run</a></li>
+                <li><a class="" href="{{ get_url(path="5th-onsm/badminton") }}">Badminton</a> |
+                  <a class="" href="{{ get_url(path="5th-onsm/basketball") }}">Basketball</a></li>
+                <li><a class="" href="{{ get_url(path="5th-onsm/cricket") }}">Cricket</a> |
+                  <a class="" href="{{ get_url(path="5th-onsm/golf") }}">Golf</a> |
+                  <a class="" href="{{ get_url(path="5th-onsm/soccer") }}">Soccer</a></li>
+                <li><a class="" href="{{ get_url(path="5th-onsm/table-tennis") }}">Table Tennis</a> |
+                  <a class="" href="{{ get_url(path="5th-onsm/tennis") }}">Tennis</a> |
+                  <a class="" href="{{ get_url(path="5th-onsm/volleyball") }}">Volleyball</a></li>
+                <li><a class="" href="{{ get_url(path="5th-onsm/closing-ceremony") }}">Closing Ceremony</a></li>
+              </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-4 col-md-6 col-sm-8 mb-5">
+        <div class="card h-100 bg-custom">
+          <img class="card-img-top img-fluid" src="/img/support.jpg" alt="Get Involved">
+          <!-- <i class="card-img-top fas fa-user-plus fa-10x bg-white text-primary text-center py-4"></i> -->
+          <div class="card-body">
+            <h2 class="card-title text-center ">Get Involved</h3>
+              <p class="card-text">
+                You can contribute to ONSM in various different ways.
+              </p>
+              <ul>
+                <li>
+                  <a class="" href="{{ get_url(path="get-involved/membership") }}">Membership</a>
+                </li>
+                <li>
+                  <a class="" href="{{ get_url(path="get-involved/partnership") }}">Partnership</a>
+                </li>
+                <li>
+                  <a class="" href="{{ get_url(path="get-involved/sponsorship") }}">Sponsorship</a>
+                </li>
+                <li>
+                  <a class="" href="{{ get_url(path="get-involved/media-coverage") }}">Media Coverage</a>
+                </li>
+                <li>
+                  <a class="" href="{{ get_url(path="get-involved/volunteering") }}">Volunteering</a>
+                </li>
+              </ul>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</section>
+
+<section class="section bg-white py-4">
+  <div class="container">
+    <img class="img-fluid" src="./img/ONSM-2020-Banner.jpg" alt="Event details">
   </div>
 </section>
 
