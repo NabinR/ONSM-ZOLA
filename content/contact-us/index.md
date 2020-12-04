@@ -6,11 +6,10 @@ page_template = "page.html"
 <div class="row">
 <div class="col-md-5">
 
-##### Get In Touch
-###### [info@onsm.org.au](mailto:info@onsm.org.au)
+##### **E-mail :** [info@onsm.org.au](mailto:info@onsm.org.au)
 <br>
 
-##### Australia
+##### **Australia**
 
 | State |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Name |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| E-mail |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Phone #|
 | :------- || :------- || :--- |||
@@ -24,14 +23,14 @@ page_template = "page.html"
 | WA || TBA || TBA ||TBA|
 <br>
 
-##### Papua New Guinea
+##### **Papua New Guinea**
 
 | Name |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| E-mail |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Phone #|
 | :------- || :--- |||
 | TBA || TBA ||TBA|
 <br>
 
-##### New Zealand
+##### **New Zealand**
 
 | Name |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| E-mail |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Phone #|
 | :------- || :--- |||
@@ -41,6 +40,8 @@ page_template = "page.html"
 </div>
 
 <div class="col-md-7">
+
+##### **Get In Touch**
 <script type="text/javascript" src="https://form.jotform.com/jsform/203332164001840"></script>
 </div>
 </div>

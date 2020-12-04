@@ -74,7 +74,7 @@
 
                 <div class="navbar-nav w-100 justify-content-end ml-3">
                     <div class="nav">
-                        <form class="mr-4 mb-2" role="search" asp-page="Search" method="get">
+                        <form class="mr-4 mb-2" role="search" href="Search" method="get">
                             <div class="has-search mt-2">
                                 <span class="fas fa-search form-control-feedback"></span>
                                 <input type="text" class="form-control" placeholder="Search website..." name="q"
@@ -211,9 +211,9 @@
                 <span class="text-white-50">Site by:</span>
                 <span style="color:coral;">Nü</span><span style="color:dodgerblue">Bik</span>
             </a>
-            | <a class="text-white-50" asp-page="/Copyright">&copy; 2020 - <span class="text-light">ONSM</span>
+            | <a class="text-white-50" href="{{ get_url(path="about-us/privacy-policy") }}">&copy; 2020 - <span class="text-light">ONSM</span>
             </a>
-            | <a class="text-white-50" asp-page="/Privacy">Privacy Policy</a>
+            | <a class="text-white-50" href="{{ get_url(path="about-us/privacy-policy") }}">Privacy Policy</a>
         </div>
     </footer>
 

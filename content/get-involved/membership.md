@@ -26,6 +26,8 @@ Please complete this form to become a registered ONSM member.
 </div>
 
 <div class="col-md-7">
+
+##### **Become a Member**
 <script type="text/javascript" src="https://form.jotform.com/jsform/203332923375857"></script>
 </div>
 </div>
