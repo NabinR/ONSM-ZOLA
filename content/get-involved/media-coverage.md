@@ -11,9 +11,9 @@ ONSM organises biennial sporting events, called the Oceania Nepali Sports Meet, 
 
 Please contact us for more information about Media Partnership opportunities on our next major event.
 
-<img class="img-thumbnail mb-4" src="../../img/media-partners.jpg">
-<img class="img-thumbnail mb-4" src="../../img/mero-kapuri-ka.jpg" width="200">
-<img class="img-thumbnail mb-4" src="../../img/cms-fm.png" width="230">
+<img class="img-thumbnail mb-4" src="../../img/media-partners.jpg" alt="Media Partners">
+<img class="img-thumbnail mb-4" src="../../img/mero-kapuri-ka.jpg" width="200" alt="Mero Kapuri Ka">
+<img class="img-thumbnail mb-4" src="../../img/cms-fm.png" width="230" alt="CMS FM Canberra">
 
 </div>
 

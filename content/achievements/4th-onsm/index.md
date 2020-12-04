@@ -6,7 +6,7 @@ date = 2018-12-31
 <div class="row">
 <div class="col-md-12">
 
-<img class="img-thumbnail float-left mr-3" src=".././.././img/onsm-logo-bg-red.jpg" width=200>
+<img class="img-thumbnail float-left mr-3" src="../../img/onsm-logo-bg-red.jpg" width=200 alt="ONSM Logo">
 
 We are pleased to announce that 4th Oceania Nepali Sports Meet <b>(ONSM)</b> has successfully concluded in Sydney, NSW. A marathon schedule of nine sports with 32 sub-categories were held in nine locations during Easter weekend (Fri 30 March to Mon 02 April 2018). Opening and Closing Ceremonies were held to highlight the importance of Nepali sporting men and women gathering at one place and competing on the sport of their choice, as well as, opportunity to Network. This "Mini Olympic" also provides a pathway for younger generation and aspiring athletes  into mainstream sporting events of the countries, now, we call home.
 
@@ -37,7 +37,7 @@ We would like to congratulate all winners, as well as, like to encourage all par
 
 We, on behalf of the organizers, would like to thank all the players who travelled from their home cities to Sydney to participate in the event. Thank you for financial and moral support of Nepalese Embassy in Canberra, Consulate General of Nepal for NSW, Nepalese Association of Victoria <b>(NAV)</b>, Nepalese Association of Queensland <b>(NAQ)</b>, Australia - Nepal Friendship Society <b>(ANFS)</b> Canberra, Nepalese Association of Western Australia <b>(NAWA)</b>, Adelaide Nepali Samaj <b>(ANS)</b>, Nepalese Society of Tasmania <b>(NEST)</b>, Nepalese Association of Northern Territories <b>(NANT)</b>, Nepalese Association Bay of Plenty, NZL <b>(NABoP)</b>, friends from PNG, Non-Resident Nepalese Association <b>(NRNA)</b> Australia NCC and SCCs.  Thanks, are also due to the Nepalese communities and various sporting clubs, who supported the individual players and the participating teams.
 
-<img class="img-thumbnail mb-3" src=".././.././img/associations.jpg">
+<img class="img-thumbnail mb-3" src="../../img/associations.jpg" alt="Partner Associations">
 
 We would like to thank all the volunteers who worked tirelessly during the entire event including the award presentation ceremony and gala dinner. Our appreciation goes to all the referees, who helped us run the competitions without any disruption and disputes.  This event would not have been possible without the generous support of our sponsors. A big thank, therefore, goes to all Event Title sponsors, Gold sponsors and silver sponsors for their financial support and boosting our energy to do more. Thanks to all the media partners, who played a significant role in promoting this event.
 

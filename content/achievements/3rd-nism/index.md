@@ -5,7 +5,7 @@ date = 2016-12-31
 
 The third Nepalese Interstate Sports Meet was recently held in Brisbane from the 25th to the 27th of March 2016. Three hundred and sixty five (365) players of Nepalese origin from New Zealand and all the states and territories in Australia except Tasmania  participated in various sporting competitions including soccer, cricket, tennis, table tennis, badminton, golf and 5 km run. In addition to these sports, a friendly volleyball competition among the three local teams involving the participation of 21 players was also held. A summary of the results of all the games is attached here with.
 
-<img class="img-thumbnail mb-3" src="./12967999_1251361411559607_37477223346146495_o_1251361411559607.jpg" >
+<img class="img-thumbnail mb-3" src="./12967999_1251361411559607_37477223346146495_o_1251361411559607.jpg" alt="3rd NISM 2016 Brisbane">
 
 The quality and competitiveness of the majority of players were witnessed by everyone participating/attending the event. Since its inception in 2013, the sports meet has always been, without any doubt, the biggest Nepalese sporting event in Australia, and the event has been quite successful in its objectives of developing a strong bond among the communities through sport, acknowledging the great sporting talents we have got in our communities and promoting various sports for health benefits.
 

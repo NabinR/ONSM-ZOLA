@@ -20,8 +20,8 @@ Golf Club. A total of 15 players with different levels of Handicap from VIC and 
 tournament was coordinated by Mr Jog Limbu (VIC) and Mr Deepak Khadka (NSW).
 </div>
 <div class="col-md-8">
-<img class="img-thumbnail mb-4 mr-2" src="./image003.jpg" width="260">
-<img class="img-thumbnail mb-4" src="./image004.jpg" width="260">
+<img class="img-thumbnail mb-4 mr-2" src="./image003.jpg" width="260" alt="Golf">
+<img class="img-thumbnail mb-4" src="./image004.jpg" width="260" alt="Golf">
 </div>
 <div class="col-md-12">
 
@@ -32,10 +32,10 @@ QLD, VIC and NSW participated. This tournament was coordinated by Mr Bishnu Hama
 Kumar Bharti.
 </div>
 <div class="col-md-12">
-<img class="img-thumbnail mb-4 mr-2" src="./image006.jpg" width="260">
-<img class="img-thumbnail mb-4 mr-2" src="./image007.jpg" width="235">
-<img class="img-thumbnail mb-4 mr-2" src="./image009.jpg" width="235">
-<img class="img-thumbnail mb-4" src="./image010.jpg" width="260">
+<img class="img-thumbnail mb-4 mr-2" src="./image006.jpg" width="260" alt="Tennis">
+<img class="img-thumbnail mb-4 mr-2" src="./image007.jpg" width="235" alt="Tennis">
+<img class="img-thumbnail mb-4 mr-2" src="./image009.jpg" width="235" alt="Tennis">
+<img class="img-thumbnail mb-4" src="./image010.jpg" width="260" alt="Tennis">
 </div>
 <div class="col-md-12">
 
@@ -47,10 +47,10 @@ single and Doubles and Mix doubles categories. This Tournament was coordinated b
 Bhatta, Mr Sanju Roka and Mr Jabin Shrestha.
 </div>
 <div class="col-md-12">
-<img class="img-thumbnail mb-4 mr-2" src="./image012.jpg" width="260">
-<img class="img-thumbnail mb-4 mr-2" src="./image024.jpg" width="260">
-<img class="img-thumbnail mb-4 mr-2" src="./image014.jpg" width="260">
-<img class="img-thumbnail mb-4" src="./image015.jpg" width="260">
+<img class="img-thumbnail mb-4 mr-2" src="./image012.jpg" width="260" alt="Badminton">
+<img class="img-thumbnail mb-4 mr-2" src="./image024.jpg" width="260" alt="Badminton">
+<img class="img-thumbnail mb-4 mr-2" src="./image014.jpg" width="260" alt="Badminton">
+<img class="img-thumbnail mb-4" src="./image015.jpg" width="260" alt="Badminton">
 </div>
 <div class="col-md-12">
 
@@ -61,10 +61,10 @@ Doubles and Ladies single and Doubles and Mix Doubles. This competition was coor
 Kuldeep Pradhan.
 </div>
 <div class="col-md-12">
-<img class="img-thumbnail mb-4 mr-2" src="./image017.jpg" width="260">
-<img class="img-thumbnail mb-4 mr-2" src="./image018.jpg" width="260">
-<img class="img-thumbnail mb-4 mr-2" src="./image020.jpg" width="260">
-<img class="img-thumbnail mb-4" src="./image021.jpg" width="260">
+<img class="img-thumbnail mb-4 mr-2" src="./image017.jpg" width="260" alt="Table Tennis">
+<img class="img-thumbnail mb-4 mr-2" src="./image018.jpg" width="260" alt="Table Tennis">
+<img class="img-thumbnail mb-4 mr-2" src="./image020.jpg" width="260" alt="Table Tennis">
+<img class="img-thumbnail mb-4" src="./image021.jpg" width="260" alt="Table Tennis">
 </div>
 <div class="col-md-12">
 
@@ -73,10 +73,10 @@ General of Nepal to NSW, Sponsors of this tournament, Media personnel, Community
 Nepalese living in Australia came in big number to witness this historic event.
 </div>
 <div class="col-md-12">
-<img class="img-thumbnail mb-4 mr-2" src="./image036.jpg" width="260">
-<img class="img-thumbnail mb-4 mr-2" src="./image037.jpg" width="260">
-<img class="img-thumbnail mb-4 mr-2" src="./image038.jpg" width="260">
-<img class="img-thumbnail mb-4" src="./image041.jpg" width="260">
+<img class="img-thumbnail mb-4 mr-2" src="./image036.jpg" width="260" alt="Award Ceremony">
+<img class="img-thumbnail mb-4 mr-2" src="./image037.jpg" width="260" alt="Award Ceremony">
+<img class="img-thumbnail mb-4 mr-2" src="./image038.jpg" width="260" alt="Award Ceremony">
+<img class="img-thumbnail mb-4" src="./image041.jpg" width="260" alt="Award Ceremony">
 </div>
 <div class="col-md-6">
 

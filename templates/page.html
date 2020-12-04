@@ -16,8 +16,7 @@
         data-toggle="lightbox"
         data-gallery="image-gallery"
       >
-        <img class="img-thumbnail mr-1 mb-2" src="{{ resize_image(path=asset,
-        width=240, height=180, op="fill") }}" />
+        <img class="img-thumbnail mr-1 mb-2" src="{{ resize_image(path=asset, width=240, height=180, op="fill") }}" alt="{{ asset }}"/>
       </a>
 
       {% endif %} {% endfor %}
