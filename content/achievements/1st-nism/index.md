@@ -14,7 +14,7 @@ Competitions were held in Golf, Tennis, Badminton and Table Tennis.
 </div>
 <div class="col-md-4">
 
-##### Golf
+##### **Golf**
 The tournament kicked – off on the early morning of Friday 27, December 2013 at Chatswood
 Golf Club. A total of 15 players with different levels of Handicap from VIC and NSW participated. This
 tournament was coordinated by Mr Jog Limbu (VIC) and Mr Deepak Khadka (NSW).
@@ -25,7 +25,7 @@ tournament was coordinated by Mr Jog Limbu (VIC) and Mr Deepak Khadka (NSW).
 </div>
 <div class="col-md-12">
 
-##### Tennis
+##### **Tennis**
 The tournament was held across two days Friday 27 and Saturday 28 December 2013 at
 North Ryde RSL Youth Club and Strathfield Sports Club Tennis courts. A total of 16 players from NT,
 QLD, VIC and NSW participated. This tournament was coordinated by Mr Bishnu Hamal and Mr Dil
@@ -39,7 +39,7 @@ Kumar Bharti.
 </div>
 <div class="col-md-12">
 
-##### Badminton
+##### **Badminton**
 This competition started on Friday 27 December 2013 at North Ryde RSL Youth Club
 Badminton courts and concluded in Sport Centre, Sydney Olympic Park on Sunday 29 December
 2013. Over 60 players from ACT, NSW, QLD and VIC participated in Men’s single and Doubles, Ladies
@@ -54,7 +54,7 @@ Bhatta, Mr Sanju Roka and Mr Jabin Shrestha.
 </div>
 <div class="col-md-12">
 
-##### Table Tennis
+##### **Table Tennis**
 This tournament was held in Sports Centre, Sydney Olympic Park on Sat 28 and Sun 29
 December 2013. Over 45 players from VIC, ACT, QLD and NSW participated in Men’s Single and
 Doubles and Ladies single and Doubles and Mix Doubles. This competition was coordinated by Mr
@@ -80,7 +80,7 @@ Nepalese living in Australia came in big number to witness this historic event.
 </div>
 <div class="col-md-6">
 
-##### Official Desk
+##### **Official Desk**
 Miss Savi Hamal and Miss June Shrestha professionally managed the pressure of
 official desk. The duties involved record keeping of the scores and announcing of the results. NRC
 also received help from partners of players visiting from other states and from within NSW. NRC was
@@ -91,7 +91,7 @@ many volunteers.
 </div>
 <div class="col-md-6">
 
-##### Award/Dinner Night
+##### **Award/Dinner Night**
 The interstate tournament concluded on Sunday 29 December 2013 at
 Petersham Town Hall with the award ceremony and dinner night. It was attended by players,
 Sponsors, volunteers, community leaders, media along with Ambassador of Nepal to Australia H.E.
@@ -115,9 +115,10 @@ tournament from its conception in early August 2013.
 <div class="col-md-12">
 NRC would like to gratitude all players, sponsors, supporters, media partners, community leaders
 and family members for their efforts to successfully accomplish this historic event.
+<br><br>
 
 **Where from here now**
-
+<br>
 With the talk held among all State coordinators it was decided to organise the next Interstate
 tournament in around December 2014/January 2015 in Melbourne lead by Nepalese Association of
 Victoria and supported by other state sporting CBO’s.

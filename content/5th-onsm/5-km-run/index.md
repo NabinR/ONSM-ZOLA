@@ -5,9 +5,11 @@ weight = 3
 +++
 
 <div class="row">
-<div class="col-md-6">
+<div class="col-md-5">
 
-##### **Oceania Nepali Sports Meet - Canberra 202X** <br><br>
+##### **Oceania Nepali Sports Meet - Canberra**
+
+<img class="img-thumbnail" src="./5-km-run.jpg" alt="5 KM Run">
 
 <table class="table table-responsive">
 <tbody>
@@ -28,12 +30,10 @@ TBA
 </table>
 </div>
 
-<div class="col-md-6 img-fluid">
-<img class="img-fluid" src="./5-km-run.jpg" alt="5 KM Run">
+<div class="col-md-7">
+
+##### **Expression of Interest**
+<script type="text/javascript" src="https://form.jotform.com/jsform/203383630737860"></script>
 </div>
 
 </div>
-
-
-
-<br><br>

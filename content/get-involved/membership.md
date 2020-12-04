@@ -12,12 +12,12 @@ Interested individuals shall fill the membership application form and submit to 
 OCC will have the right to approve or disapprove an application for the Individual Membership. The Individual
 Members will have voting rights in the General Meetings.
 
-#### General Membership
+##### **General Membership**
 An individual can become a general member by paying a nominal fee of $20 for one biennial
 term (i.e. two years). The membership will expire when the ONSM biennial event is concluded. After each term,
 the general membership needs to be renewed. 
 
-#### Life Membership
+##### **Life Membership**
 An individual can become a life member by paying a nominal fee of $100. This is a permanent
 membership, which does not require renewal after each biennial term.
 
