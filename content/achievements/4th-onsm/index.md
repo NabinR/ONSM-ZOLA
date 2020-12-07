@@ -27,7 +27,7 @@ We would like to congratulate all winners, as well as, like to encourage all par
 </div>
 <div class="col-md-5">
     <iframe
-        src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Flink2bhattarai%2Fvideos%2F186821241838084%2F&show_text=0&width=560"
+        src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Flink2bhattarai%2Fvideos%2F186821241838084%2F&show_text=0"
         width="440" height="300" style="border:none;overflow:hidden" scrolling="no" frameborder="0"
         allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
         allowFullScreen="true">
