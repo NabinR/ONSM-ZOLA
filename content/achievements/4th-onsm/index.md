@@ -15,7 +15,7 @@ Over 800 players, from all states & territories of Australia, New Zealand and fo
 Since its inception in 2013, the sports meet has been the biggest sporting event for people of Nepali origin in the Oceania region, and now coming to its 4th edition it is probably the biggest gathering of Nepali sporting men & women outside of Nepal. The main objectives of the sport meet are:
 
 </div>
-<div class="col-md-6">
+<div class="col-md-7">
 
 1. networking and developing a strong bond among the diverse Nepalese communities through competitive sports,<br>
 2. acknowledging the great sporting talents, we have,<br>
@@ -25,10 +25,10 @@ Since its inception in 2013, the sports meet has been the biggest sporting event
 We would like to congratulate all winners, as well as, like to encourage all participants to be active and take part in future sporting events. After all, the health benefit that we get from staying active far outweighs the mere winning of a competition. Sincere thanks to all the players and supporting crews for your hard-work and wonderful efforts. We hope to see much more of your sporting talent in the coming years.
 
 </div>
-<div class="col-md-6">
+<div class="col-md-5">
     <iframe
         src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Flink2bhattarai%2Fvideos%2F186821241838084%2F&show_text=0&width=560"
-        width="540" height="350" style="border:none;overflow:hidden" scrolling="no" frameborder="0"
+        width="440" height="300" style="border:none;overflow:hidden" scrolling="no" frameborder="0"
         allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
         allowFullScreen="true">
     </iframe>    

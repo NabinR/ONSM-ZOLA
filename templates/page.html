@@ -7,41 +7,54 @@
     </h1>
     <!-- <p class="subtitle"><strong>{{ page.date }}</strong></p> -->
     <p>{{ page.content | safe }}</p>
-
-    <div class="text-left">
-      <!-- <h5><b>Photo Gallery</b></h5> -->
-      {% for asset in page.assets %} {% if asset is matching("[.](jpg|png)$") %}
-      <a
-        href="{{ get_url(path=asset) }}"
-        data-toggle="lightbox"
-        data-gallery="image-gallery"
-      >
-        <img class="img-thumbnail mr-1 mb-2" src="{{ resize_image(path=asset, width=240, height=180, op="fill") }}" alt="{{ asset }}"/>
-      </a>
-
-      {% endif %} {% endfor %}
-    </div>
-
-    <!-- <div class="header" id="myHeader">
-      <h1>Image Grid</h1>
-      <p>Click on the buttons to change the grid view.</p>
-      <button class="btn" onclick="one()">1</button>
-      <button class="btn active" onclick="two()">2</button>
-      <button class="btn" onclick="four()">4</button>
-    </div>
-
-    <div class="row">
-      <div class="column">
-        <img src="/img/ONSM-2020-Banner.jpg">
-        <img src="/img/5-km-run-banner.jpg">
-      </div>
-      <div class="column">
-        <img src="/img/ONSM-2020-Banner.jpg">
-        <img src="/img/5-km-run-banner.jpg">
-      </div>
-    </div> -->
-
   </div>
+</section>
+
+<section class="section bg-white pb-2">
+  <div class="">
+  <div class="row mx-0 my-0">
+    <div class="column">
+      {% for asset in page.assets %} {% if asset is matching("[.](jpg|png)$") %}
+      {% if loop.index % 4 == 1 %}
+      <a href="{{ get_url(path=asset) }}" data-toggle="lightbox" data-gallery="image-gallery">
+        <img class="img-fluid" src="{{ get_url(path=asset) }}" alt="{{ asset }}" />
+      </a>
+      {% endif %} {% endif %} {% endfor %}
+    </div>
+    <div class="column">
+      {% for asset in page.assets %} {% if asset is matching("[.](jpg|png)$") %}
+      {% if loop.index % 4 == 2 %}
+      <a href="{{ get_url(path=asset) }}" data-toggle="lightbox" data-gallery="image-gallery">
+        <img class="img-fluid" src="{{ get_url(path=asset) }}" alt="{{ asset }}" />
+      </a>
+      {% endif %} {% endif %} {% endfor %}
+    </div>
+    <div class="column">
+      {% for asset in page.assets %} {% if asset is matching("[.](jpg|png)$") %}
+      {% if loop.index % 4 == 3 %}
+      <a href="{{ get_url(path=asset) }}" data-toggle="lightbox" data-gallery="image-gallery">
+        <img class="img-fluid" src="{{ get_url(path=asset) }}" alt="{{ asset }}" />
+      </a>
+      {% endif %} {% endif %} {% endfor %}
+    </div>
+    <!-- <div class="column">
+      {% for asset in page.assets %} {% if asset is matching("[.](jpg|png)$") %}
+      {% if loop.index % 4 == 4 %}
+      <a href="{{ get_url(path=asset) }}" data-toggle="lightbox" data-gallery="image-gallery">
+        <img class="img-fluid" src="{{ get_url(path=asset) }}" alt="{{ asset }}" />
+      </a>
+      {% endif %} {% endif %} {% endfor %}
+    </div> -->
+    <div class="column">
+      {% for asset in page.assets %} {% if asset is matching("[.](jpg|png)$") %}
+      {% if loop.index % 4 == 0 %}
+      <a href="{{ get_url(path=asset) }}" data-toggle="lightbox" data-gallery="image-gallery">
+        <img class="img-fluid" src="{{ get_url(path=asset) }}" alt="{{ asset }}" />
+      </a>
+      {% endif %} {% endif %} {% endfor %}
+    </div>
+  </div>
+</div>
 </section>
 
 {% endblock content %}
