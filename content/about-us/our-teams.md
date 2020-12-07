@@ -21,11 +21,20 @@ The ONSM management consists of the following teams:
 
 #### Patrons
 
-Seven founding members of the ONSM from ACT (Dr Durga Kandel), NSW (Bishnu Hamal and Jabin Shrestha),
-QLD (Hari Kharka and Abhimanyu KC) and VIC (Jog Limbu and Madhu Pokharel) plus prominent sport
-personalities with significant contribution to the Nepalese sporting community in the Oceania region.
+Seven founding members of the ONSM with prominent sport personalities with significant contribution to the Nepalese sporting community in the Oceania region are:
+
+| State |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Name |
+| :-----: || :---|
+| ACT     || Dr Durga Kandel |
+| NSW     || Bishnu Hamal  |
+| NSW     || Jabin Shrestha |
+| VIC     || Jog Limbu |
+| VIC     || Madhu Pokharel |
+| QLD     || Hari Khadka |
+| QLD     || Abhumanyu KC  |
 
 </div>
+
 <div class="col-md-7">
 
 #### Advisors
@@ -35,18 +44,75 @@ past presidents of the ONSM. Prominent sports personalities who significantly co
 community leaders with capacity to make significant contribution to the ONSM (maximum of two people per
 jurisdiction). Maximum number of Advisors to not exceed 25.
 
+| State |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Name |
+| :-----: || :--- |
+| ACT     || Adarsh Jung Pandey (ANFS), Prem Chaudhary (BNCC), Chudamani Sapkota (NRNA ACT) |
+| NSW     || Subarna Sharma (NRC), Raju Manandhar |
+| VIC     || Ram Gurung (NAV), Bom Yonzon (RWC), Raj Sharma (Yeti FC) |
+| QLD     || Amrit Poudel (NAQ)  |
+| TAS     || Nabraj Mudbari (NEST North), Prakash Upreti (TNCA)  |
+| SA      || Bijay Joshi (ANCC), Thir Gurung (AKFC) |
+| WA      || Dr Mani Nath Paneru (NAWA), Churamani Lamichhane (NAWA) |
+| NT      || Yuba Raj Panta (NANT) |
+| NZ      || Pawan Poudel (NABOP), Santosh  Bhandari (NZNS AKL) |
+
+<!--| State |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Name |
+| :-----: || :---|
+| ACT     || Adarsh Jung Pandey (ANFS) |
+| ACT     || Prem Chaudhary (BNCC) |
+| ACT     || Chudamani Sapkota (NRNA ACT) |
+| NSW     || Subarna Sharma (NRC) |
+| NSW     || Raju Manandhar |
+| VIC     || Ram Gurung (NAV) |
+| VIC     || Bom Yonzon (RWC) |
+| VIC     || Raj Sharma (Yeti FC) |
+| QLD     || Amrit Poudel (NAQ)  |
+| TAS     || Nabraj Mudbari (NEST North) |
+| TAS     || Prakash Upreti (TNCA)  |
+| SA      || Bijay Joshi (ANCC) |
+| SA      || Thir Gurung (AKFC) |
+| WA      || Dr Mani Nath Paneru (NAWA) |
+| WA      || Churamani Lamichhane (NAWA) |
+| NT      || Yuba Raj Panta (NANT) |
+| NZ      || Pawan Poudel (NABOP) |
+| NZ      || Santosh  Bhandari (NZNS AKL) | -->
+
 </div>
-</div>
+</div><br>
 
 #### Oceania Coordination Committee (OCC)
 
-| Position |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Name |
-| :------- || :--- |
-| TBA      || TBA  |
-| TBA      || TBA  |
-| TBA      || TBA  |
-| TBA      || TBA  |
-| TBA      || TBA  |
+| Position | &nbsp;&nbsp; State |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Name | 
+| :------- | :----: || :--- |
+| President      | ACT || Ashish Sapkota  |
+| Vice-President | NSW || Ajay Kshatry   |
+| Vice-President | VIC || Tara Gaire  |
+| Vice-President | QLD || Amit Lohani  |
+| Vice-President | TAS || Ms Punam Panta  |
+| Vice-President | SA  || Supak Adhikari  |
+| Vice-President | WA  || Dawa Sherpa   |
+| Vice-President | NT  || Gunjan Upadhaya |
+| Vice-President | NZ  || Kesh Gurung  |
+| General Secretary | ACT || TBA |
+| Treasurer     | ACT || Amul KC |
+| Public Officer      | NSW || Ms Anjana Singh Shrestha  |
+| Executive Member | NSW || Ms Pramila Thapa  |
+| Executive Member | VIC || Prem Raj Upreti  |
+| Executive Member | QLD|| TBA  |
+| Executive Member | TAS || Pradip Pokharel  |
+| Executive Member | SA || Santosh Adhikari  |
+| Executive Member | WA || Dipak Basnet  |
+| Executive Member | NT || Rabin Karki  |
+| Executive Member | NZ || Dinesh Khadka  |
+| Sponsorship and Fund <br> Raiser Coordinator | ACT || Ms Khusbu Pushpa Neupane  |
+| Document Controller | ACT || Raju Adhikari  |
+| Secretariat and <br> Logistics Coordinator | ACT || Binod Ghimire  |
+| Event Management <br> Coordinator | ACT || Jeevan Kumar Ghimire  |
+| ICT Support Coordinator | ACT || Bhuwan Uprety  |
+| Cultural Coordinator | ACT || Ms Sabina Sharma Thapa  |
+| Medical Coordinator | ACT || Dr Pawan Pyakurel  |
+| Media and <br> Promotion Coordinator | ACT || Ashish Pokharel  |
+| Sports Coordinator | ACT || Sudip Dahal  |
 
 <br>
 
@@ -54,27 +120,46 @@ jurisdiction). Maximum number of Advisors to not exceed 25.
 <div class="col-md-6">
 
 #### State Coordination Committee ####
-##### (Event Hosting SCC) #####
+##### (Event Hosting SCC - ACT) #####
 | Position |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Name |
 | :------- || :--- |
-| TBA      || TBA  |
-| TBA      || TBA  |
-| TBA      || TBA  |
-| TBA      || TBA  |
-| TBA      || TBA  |
+| President      || Ashish Sapkota  |
+| General Secretary || TBA |
+| Treasurer     || Amul KC |
+| Sponsorship and Fund <br> Raiser Coordinator || Ms Khusbu Pushpa Neupane   |
+| Document Controller || Raju Adhikari  |
+| Secretariat and <br> Logistics Coordinator || Binod Ghimire  |
+| Event Management <br> Coordinator || Jeevan Kumar Ghimire  |
+| ICT Support Coordinator ||  Bhuwan Uprety  |
+| Cultural Coordinator ||  Ms Sabina Sharma Thapa  |
+| Medical Coordinator ||  Dr Pawan Pyakurel  |
+| Media and <br> Promotion Coordinator || Ashish Pokharel  |
+| Sports Coordinator || Sudip Dahal |
 
 </div>
 <div class="col-md-6">
 
 #### State Coordination Committee ####
 ##### (Event Participating SCC) #####
-| Position |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Name |
-| :------- || :--- |
-| TBA      || TBA  |
-| TBA      || TBA  |
-| TBA      || TBA  |
-| TBA      || TBA  |
-| TBA      || TBA  |
+| Position | &nbsp;&nbsp; State |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Name | 
+| :------- | :----: || :--- |
+| Vice-President   | NSW || Ajay Kshatry   |
+| Vice-President   | VIC || Tara Gaire  |
+| Vice-President   | QLD || Amit Lohani  |
+| Vice-President   | TAS || Ms Punam Panta  |
+| Vice-President   | SA  || Supak Adhikari  |
+| Vice-President   | WA  || Dawa Sherpa   |
+| Vice-President   | NT  || Gunjan Upadhaya |
+| Vice-President   | NZ  || Kesh Gurung  |
+| Public Officer   | NSW || Ms Anjana Singh Shrestha  |
+| Executive Member | NSW || Ms Pramila Thapa  |
+| Executive Member | VIC || Prem Raj Upreti  |
+| Executive Member | QLD || TBA  |
+| Executive Member | TAS || Pradip Pokharel  |
+| Executive Member | SA  || Santosh Adhikari  |
+| Executive Member | WA  || Dipak Basnet  |
+| Executive Member | NT  || Rabin Karki  |
+| Executive Member | NZ  || Dinesh Khadka  |
 
 </div>
 </div>
