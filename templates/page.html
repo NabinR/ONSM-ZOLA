@@ -14,7 +14,7 @@
   <div class="">
   <div class="row mx-0 my-0">
     <div class="column">
-      {% for asset in page.assets %} {% if asset is matching("[.](jpg|png)$") %}
+      {% for asset in page.assets | sort %} {% if asset is matching("[.](jpg|png)$") %}
       {% if loop.index % 4 == 1 %}
       <a href="{{ get_url(path=asset) }}" data-toggle="lightbox" data-gallery="image-gallery">
         <img class="img-fluid" src="{{ get_url(path=asset) }}" alt="{{ asset }}" />
@@ -22,7 +22,7 @@
       {% endif %} {% endif %} {% endfor %}
     </div>
     <div class="column">
-      {% for asset in page.assets %} {% if asset is matching("[.](jpg|png)$") %}
+      {% for asset in page.assets | sort %} {% if asset is matching("[.](jpg|png)$") %}
       {% if loop.index % 4 == 2 %}
       <a href="{{ get_url(path=asset) }}" data-toggle="lightbox" data-gallery="image-gallery">
         <img class="img-fluid" src="{{ get_url(path=asset) }}" alt="{{ asset }}" />
@@ -30,7 +30,7 @@
       {% endif %} {% endif %} {% endfor %}
     </div>
     <div class="column">
-      {% for asset in page.assets %} {% if asset is matching("[.](jpg|png)$") %}
+      {% for asset in page.assets | sort %} {% if asset is matching("[.](jpg|png)$") %}
       {% if loop.index % 4 == 3 %}
       <a href="{{ get_url(path=asset) }}" data-toggle="lightbox" data-gallery="image-gallery">
         <img class="img-fluid" src="{{ get_url(path=asset) }}" alt="{{ asset }}" />
@@ -38,7 +38,7 @@
       {% endif %} {% endif %} {% endfor %}
     </div>
     <!-- <div class="column">
-      {% for asset in page.assets %} {% if asset is matching("[.](jpg|png)$") %}
+      {% for asset in page.assets | sort %} {% if asset is matching("[.](jpg|png)$") %}
       {% if loop.index % 4 == 4 %}
       <a href="{{ get_url(path=asset) }}" data-toggle="lightbox" data-gallery="image-gallery">
         <img class="img-fluid" src="{{ get_url(path=asset) }}" alt="{{ asset }}" />
@@ -46,7 +46,7 @@
       {% endif %} {% endif %} {% endfor %}
     </div> -->
     <div class="column">
-      {% for asset in page.assets %} {% if asset is matching("[.](jpg|png)$") %}
+      {% for asset in page.assets | sort %} {% if asset is matching("[.](jpg|png)$") %}
       {% if loop.index % 4 == 0 %}
       <a href="{{ get_url(path=asset) }}" data-toggle="lightbox" data-gallery="image-gallery">
         <img class="img-fluid" src="{{ get_url(path=asset) }}" alt="{{ asset }}" />

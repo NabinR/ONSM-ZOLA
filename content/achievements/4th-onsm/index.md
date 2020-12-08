@@ -15,7 +15,7 @@ Over 800 players, from all states & territories of Australia, New Zealand and fo
 Since its inception in 2013, the sports meet has been the biggest sporting event for people of Nepali origin in the Oceania region, and now coming to its 4th edition it is probably the biggest gathering of Nepali sporting men & women outside of Nepal. The main objectives of the sport meet are:
 
 </div>
-<div class="col-md-7">
+<div class="col-md-6">
 
 1. networking and developing a strong bond among the diverse Nepalese communities through competitive sports,<br>
 2. acknowledging the great sporting talents, we have,<br>
@@ -25,21 +25,26 @@ Since its inception in 2013, the sports meet has been the biggest sporting event
 We would like to congratulate all winners, as well as, like to encourage all participants to be active and take part in future sporting events. After all, the health benefit that we get from staying active far outweighs the mere winning of a competition. Sincere thanks to all the players and supporting crews for your hard-work and wonderful efforts. We hope to see much more of your sporting talent in the coming years.
 
 </div>
+<div class="col-md-1"></div>
 <div class="col-md-5">
-    <iframe
-        src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Flink2bhattarai%2Fvideos%2F186821241838084%2F&show_text=0&width=440"
-        width="440" height="300" style="border:none;overflow:hidden" scrolling="no" frameborder="0"
-        allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
-        allowFullScreen="true">
-    </iframe>    
+
+<div class="fb-video mb-3" data-href="https://www.facebook.com/link2bhattarai/videos/186821241838084/" data-width="500" data-show-text="false"></div>
+<div id="fb-root"></div>
+<script>
+    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.11';
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
 </div>
 <div class="col-md-12">
 
-We, on behalf of the organizers, would like to thank all the players who travelled from their home cities to Sydney to participate in the event. Thank you for financial and moral support of Nepalese Embassy in Canberra, Consulate General of Nepal for NSW, Nepalese Association of Victoria <b>(NAV)</b>, Nepalese Association of Queensland <b>(NAQ)</b>, Australia - Nepal Friendship Society <b>(ANFS)</b> Canberra, Nepalese Association of Western Australia <b>(NAWA)</b>, Adelaide Nepali Samaj <b>(ANS)</b>, Nepalese Society of Tasmania <b>(NEST)</b>, Nepalese Association of Northern Territories <b>(NANT)</b>, Nepalese Association Bay of Plenty, NZL <b>(NABoP)</b>, friends from PNG, Non-Resident Nepalese Association <b>(NRNA)</b> Australia NCC and SCCs.  Thanks, are also due to the Nepalese communities and various sporting clubs, who supported the individual players and the participating teams.
+We would like to thank all the volunteers who worked tirelessly during the entire event including the award presentation ceremony and gala dinner. Our appreciation goes to all the referees, who helped us run the competitions without any disruption and disputes.  This event would not have been possible without the generous support of our sponsors. A big thank, therefore, goes to all Event Title sponsors, Gold sponsors and silver sponsors for their financial support and boosting our energy to do more. Thanks to all the media partners, who played a significant role in promoting this event.
 
 <img class="img-thumbnail mb-3" src="../../img/associations.jpg" alt="Partner Associations">
-
-We would like to thank all the volunteers who worked tirelessly during the entire event including the award presentation ceremony and gala dinner. Our appreciation goes to all the referees, who helped us run the competitions without any disruption and disputes.  This event would not have been possible without the generous support of our sponsors. A big thank, therefore, goes to all Event Title sponsors, Gold sponsors and silver sponsors for their financial support and boosting our energy to do more. Thanks to all the media partners, who played a significant role in promoting this event.
 
 Thanks to all who worked on the front and behind the scene in various roles and at various stages of the event to make it a grand success. Special thanks to the families who provided accommodation to the interstate participants. Thanks to all the guests who travelled all the way from Melbourne, Brisbane, Canberra, Darwin, Adelaide, Perth, Tasmania, New Zealand and PNG to attend this event.
 
@@ -57,7 +62,8 @@ Thanks again for making the Oceania Nepali Sports Meet 2018 a grand success. See
 A comprehensive list of the outcome of the competition is attached for your reference. If you have any question or there is error please let us know.
 
 </div>
-<div class="col-md-6 pl-5">
+<div class="col-md-1"></div>
+<div class="col-md-5">
 
 ##### **Medal Tally**
 
